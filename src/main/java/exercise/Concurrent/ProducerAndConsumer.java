@@ -31,7 +31,7 @@ class SelfFactory {
                 e.printStackTrace();
             }
         }
-        this.notify();
+        this.notifyAll();
         product[index] = p;
         index++;
     }
@@ -44,7 +44,7 @@ class SelfFactory {
                 e.printStackTrace();
             }
         }
-        this.notify();
+        this.notifyAll();
         index--;
         return product[index];
     }
