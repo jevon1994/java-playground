@@ -35,17 +35,3 @@ M
 src/main/java/com/demo14.java,2\8\2887b6c2728e917c8d47e28d1848eb371ef4fb4e
 M
 src/main/java/debug/Base.java,6\e\6e1c027547ddebaa78ff3b255efcc044f9d11684
-T
-$src/main/java/exercise/TestJoin.java,9\b\9bebbe2d6e8652da6cbc14075ad18b707f11fad2
-\
-,src/main/java/exercise/TestSynchronized.java,4\9\49e71d4f4775a1410127f6467ab74c6d2c47d5e4
-N
-src/main/java/exercise/TT.java,7\9\79ddba6b06f06eb6b781b01c209953306c438807
-R
-"src/main/java/exercise/Static.java,b\7\b7723b42741675fcd44cbaa471a98aa1721081af
-X
-(src/main/java/exercise/TestDeadLock.java,1\c\1ca96d65c5e484b1853c359f3f4a485595a3d891
-X
-(src/main/java/exercise/TestRunnable.java,7\d\7d1428508e70cdcf719a41307a7afa389d302e1f
-V
-&src/main/java/exercise/TestThread.java,8\6\86abd3f1fe3c9d2fa4730a486243d61691052514

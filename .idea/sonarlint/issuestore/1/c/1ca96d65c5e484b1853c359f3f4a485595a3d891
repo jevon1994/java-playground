@@ -1,20 +1,0 @@
-
-Vsquid:S2209"5Change this instance-reference to a static reference.(ÜŒıäıÿÿÿÿ8ƒ¥áóÏ,
-dsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(€­íÜüÿÿÿÿ8šõ¥óÏ,
-<squid:S1659" Declare "o2" on a separate line.(ëÃ‰Ë8õŠöòÏ,
-bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8šõ¥óÏ,
-Qsquid:S2209"5Change this instance-reference to a static reference.(ğËÓ¹8ƒ¥áóÏ,
-Qsquid:S2209"5Change this instance-reference to a static reference.(Áİë¼8ƒ¥áóÏ,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(áŞúïúÿÿÿÿ8¶¾ßóÏ,
-Vsquid:S2209"5Change this instance-reference to a static reference.(áŞúïúÿÿÿÿ8ƒ¥áóÏ,
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8šõ¥óÏ,
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8šõ¥óÏ,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ8€şóÏ,
-dsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(€­íÜüÿÿÿÿ8šõ¥óÏ,
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Áİë¼8‹ÙßóÏ,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ8ÿÙóÏ,
-bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8šõ¥óÏ,

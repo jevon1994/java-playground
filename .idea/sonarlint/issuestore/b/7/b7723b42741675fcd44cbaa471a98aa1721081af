@@ -1,16 +1,0 @@
-
-tsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ˆ‹˜÷øÿÿÿÿ8¶ôÏ,
-Ysquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8¶ôÏ,
-msquid:S3008"LRename this field "X" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ«÷—şÿÿÿÿ8¶ôÏ,
-Hsquid:S1444"'Make this "public static X" field final(æ«÷—şÿÿÿÿ8¶ôÏ,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ŠÔ·ùÿÿÿÿ8¶ôÏ,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(â¨È•şÿÿÿÿ8¶ôÏ,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ô”¬Öıÿÿÿÿ8¶ôÏ,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(¬ï©şûÿÿÿÿ8¶ôÏ,
-…"squid:ClassVariableVisibilityCheck"MMake X a static final constant or non-public and provide accessors if needed.(æ«÷—şÿÿÿÿ8¶ôÏ,
-ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÅ”8¶ôÏ,
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¶ôÏ,

@@ -1,11 +1,0 @@
-
-_squid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¬Æ„°8’¾—ÇÏ,
-csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Õ–Úü8’¾—ÇÏ,
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8’¾—ÇÏ,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(áâ›úÿÿÿÿ8î‰ ÇÏ,
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ìĞ¸î8’¾—ÇÏ,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(áâ›úÿÿÿÿ8’¾—ÇÏ,
-hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ç³±Êøÿÿÿÿ8’¾—ÇÏ,
