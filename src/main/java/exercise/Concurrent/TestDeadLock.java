@@ -35,4 +35,3 @@ class Book {
         return new Book();
     }
 }
-
