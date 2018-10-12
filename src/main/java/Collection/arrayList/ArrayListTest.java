@@ -1,7 +1,6 @@
-package implement;
+package Collection.arrayList;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
 public class ArrayListTest {

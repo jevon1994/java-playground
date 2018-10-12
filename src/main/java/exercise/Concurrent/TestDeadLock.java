@@ -7,21 +7,16 @@ class TestDeadLock {
     static Book book2 = new Book();
 
     public static void main(String[] args) {
+        runThread(book1, book2);
+        runThread(book2, book1);
+    }
+
+    public static void runThread(Book obj1, Book obj2) {
         new Thread(() -> {
             try {
-                synchronized (book1) {
-                    Thread.sleep(1000);
-                    book2.getBook();
-                }
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-        }).start();
-        new Thread(() -> {
-            try {
-                synchronized (book2) {
-                    Thread.sleep(1000);
-                    book1.getBook();
+                synchronized (obj2) {
+                    Thread.sleep(10);
+                    obj1.getBook();
                 }
             } catch (Exception e) {
                 e.printStackTrace();

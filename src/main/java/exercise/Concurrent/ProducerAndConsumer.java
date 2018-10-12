@@ -52,7 +52,7 @@ class SelfFactory {
 }
 //生产者
 class Producer implements Runnable {
-    SelfFactory selfFactory = null;
+    private SelfFactory selfFactory;
 
     public Producer(SelfFactory selfFactory) {
         this.selfFactory = selfFactory;
@@ -74,7 +74,7 @@ class Producer implements Runnable {
 }
 //消费者
 class Consumer implements Runnable {
-    SelfFactory selfFactory = null;
+    private SelfFactory selfFactory;
 
     public Consumer(SelfFactory selfFactory) {
         this.selfFactory = selfFactory;
