@@ -1,4 +1,4 @@
-package Collection.Map.hashTable;
+package exercise.Collection.Map.hashTable;
 
 import java.util.*;
 

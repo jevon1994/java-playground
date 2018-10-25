@@ -1,38 +1,17 @@
-package Collection.List.arrayList;
+package exercise.Collection.List.vector;
 
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
-import java.util.RandomAccess;
+import java.util.*;
 
-/**
- * @desc ArrayList遍历方式和效率的测试程序。
- *
- */
-public class ArrayListTest {
-
+public class VectorRandomAccessTest {
     public static void main(String[] args) {
-        List list = new ArrayList();
+        Vector vec = new Vector();
         for (int i = 0; i < 100000; i++)
-            list.add(i);
-        //isRandomAccessSupported(list);
-        iteratorThroughRandomAccess(list);
-        iteratorThroughIterator(list);
-        iteratorThroughFor2(list);
+            vec.add(i);
+        iteratorThroughRandomAccess(vec);
+        iteratorThroughIterator(vec);
+        iteratorThroughFor2(vec);
+        iteratorThroughEnumeration(vec);
 
-        // stream access
-        getList(list);
-
-    }
-
-    public static void getList(List list){
-        long startTime;
-        long endTime;
-        startTime = System.currentTimeMillis();
-        list.stream().forEach(o -> System.out.println(o));
-        endTime = System.currentTimeMillis();
-        long interval = endTime - startTime;
-        System.out.println("iteratorThroughRandomAccess：" + interval + " ms");
     }
 
     private static void isRandomAccessSupported(List list) {
@@ -76,9 +55,23 @@ public class ArrayListTest {
         long startTime;
         long endTime;
         startTime = System.currentTimeMillis();
-        for (Object obj : list) ;
+        for (Object obj : list)
+            ;
         endTime = System.currentTimeMillis();
         long interval = endTime - startTime;
         System.out.println("iteratorThroughFor2：" + interval + " ms");
+    }
+
+    public static void iteratorThroughEnumeration(Vector vec) {
+
+        long startTime;
+        long endTime;
+        startTime = System.currentTimeMillis();
+        for (Enumeration enu = vec.elements(); enu.hasMoreElements(); ) {
+            enu.nextElement();
+        }
+        endTime = System.currentTimeMillis();
+        long interval = endTime - startTime;
+        System.out.println("iteratorThroughEnumeration：" + interval + " ms");
     }
 }

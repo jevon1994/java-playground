@@ -1,4 +1,4 @@
-package Collection.Map.treeMap;
+package exercise.Collection.Map.treeMap;
 
 import java.util.Iterator;
 import java.util.Map;

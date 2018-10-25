@@ -1,4 +1,4 @@
-package Collection.Set.TreeSet;
+package exercise.Collection.Set.TreeSet;
 
 import java.util.Iterator;
 import java.util.TreeSet;

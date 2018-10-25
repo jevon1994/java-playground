@@ -1,4 +1,4 @@
-package Collection.List;
+package exercise.Collection.List;
 
 import java.util.*;
 
