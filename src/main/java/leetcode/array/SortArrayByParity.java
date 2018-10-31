@@ -23,6 +23,5 @@ public class SortArrayByParity {
             B[i] = arrays.get(i);
             System.out.print(B[i] + " ");
         }
-
     }
 }
