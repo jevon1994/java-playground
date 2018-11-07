@@ -30,8 +30,9 @@ public class ThreadCommunication {
 
     public static void main(String[] args) {
         ThreadCommunication t = new ThreadCommunication();
-        t.go();
         t.start();
+        t.go();
+
     }
 
 }
