@@ -40,6 +40,9 @@ class Create_2 implements Runnable {
     }
 }
 
+/**
+ * 3.实现Callable接口
+ */
 class Create_3 implements Callable<String> {
 
     @Override
