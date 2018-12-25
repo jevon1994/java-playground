@@ -9,16 +9,16 @@
       "License" shall mean the terms and conditions for use, reproduction,
       and distribution as defined by Sections 1 through 9 of this document.
 
-      "Licensor" shall mean the copyright owner or entity authorized by
+      "Licensor" shall mean the copyright owner or com.entity authorized by
       the copyright owner that is granting the License.
 
-      "Legal Entity" shall mean the union of the acting entity and all
+      "Legal Entity" shall mean the union of the acting com.entity and all
       other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
+      control with that com.entity. For the purposes of this definition,
       "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
+      direction or management of such com.entity, whether by contract or
       otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+      outstanding shares, or (iii) beneficial ownership of such com.entity.
 
       "You" (or "Your") shall mean an individual or Legal Entity
       exercising permissions granted by this License.
@@ -79,7 +79,7 @@
       by such Contributor that are necessarily infringed by their
       Contribution(s) alone or by combination of their Contribution(s)
       with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
+      institute patent litigation against any com.entity (including a
       cross-claim or counterclaim in a lawsuit) alleging that the Work
       or a Contribution incorporated within the Work constitutes direct
       or contributory patent infringement, then any patent licenses
@@ -148,7 +148,7 @@
       of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
       PARTICULAR PURPOSE. You are solely responsible for determining the
       appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+      risks associated with Your com.exercise of permissions under this License.
 
    8. Limitation of Liability. In no event and under no legal theory,
       whether in tort (including negligence), contract, or otherwise,
