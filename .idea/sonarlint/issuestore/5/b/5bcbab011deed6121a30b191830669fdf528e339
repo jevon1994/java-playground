@@ -1,7 +1,0 @@
-
-S
-squid:S106"9Replace this use of System.out or System.err by a logger.(¨—ğ8­ÌåÊ,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(İÊ¹Éùÿÿÿÿ8­ÌåÊ,
-osquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ò¦¡­ıÿÿÿÿ8­ÌåÊ,
-Jsquid:S2140")Use "java.util.Random.nextInt()" instead.(¡şçÿùÿÿÿÿ8­ÌåÊ,

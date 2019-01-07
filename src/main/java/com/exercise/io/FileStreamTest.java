@@ -10,7 +10,7 @@ public class FileStreamTest {
         testWrite();
         testRead();
     }
-
+    // 向文件写入
     public static void testWrite() {
         try {
             // 1 创建文件“file.txt”对应File对象
@@ -38,6 +38,7 @@ public class FileStreamTest {
 
     /**
      * FileInputStream 演示程序
+     * 从文件读取
      */
     private static void testRead() {
         try {
