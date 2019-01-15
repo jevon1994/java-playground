@@ -6,8 +6,8 @@ public class hello {
         MyInvocationHandler demo = new MyInvocationHandler();
         Subject sub = (Subject) demo.bind(new RealSubject());
         String info = sub.say("Rollen", 20);
-        System.out.println(info);
-        info.hashCode();
-        sub.hashCode();
+//        System.out.println(info);
+//        System.out.println(info.hashCode());
+        System.out.println(sub.hashCode());
     }
 }
