@@ -16,7 +16,7 @@ public class ArrayListTest {
         for (int i = 0; i < 100000; i++)
             list.add(i);
         //isRandomAccessSupported(list);
-        iteratorThroughRandomAccess(list);
+//        iteratorThroughRandomAccess(list);
         iteratorThroughIterator(list);
         iteratorThroughFor2(list);
 

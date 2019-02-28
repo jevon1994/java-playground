@@ -1,5 +1,7 @@
 package com.exercise.abstractTest;
 
+import java.util.HashMap;
+
 public class abstractTest {
     public static void main(String[] args) {
         new D().bye();
@@ -58,7 +60,6 @@ class D extends C {
 
     @Override
     public void talk() {
-
     }
 
     @Override
