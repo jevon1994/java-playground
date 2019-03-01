@@ -1,4 +1,4 @@
-package cn.leon.selfContext;
+package cn.leon.service;
 
 public class User {
     private String name;

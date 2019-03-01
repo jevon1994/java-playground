@@ -1,4 +1,4 @@
-package cn.leon.selfContext;
+package cn.leon.resource;
 
 import java.io.InputStream;
 import java.net.URL;
