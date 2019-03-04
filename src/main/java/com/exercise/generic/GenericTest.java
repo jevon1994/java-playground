@@ -1,5 +1,7 @@
 package com.exercise.generic;
 
+import java.util.List;
+
 public class GenericTest {
     public static void main(String[] args) {
         Apple apple = new Apple();
@@ -13,29 +15,32 @@ public class GenericTest {
         generateTest.show_3(person);
     }
 }
-
 class Fruit {
     @Override
     public String toString() {
         return "fruit";
     }
 }
-
 class Apple extends Fruit {
     @Override
     public String toString() {
         return "apple";
     }
 }
-
-class Person {
+class man {
+    @Override
+    public String toString() {
+        return "man";
+    }
+}
+class Person extends man{
     @Override
     public String toString() {
         return "Person";
     }
 }
+class GenerateTest<T>{
 
-class GenerateTest<T> {
     public void show_1(T t) {
         System.out.println(t.toString());
     }
@@ -49,4 +54,5 @@ class GenerateTest<T> {
     public <T> void show_2(T t) {
         System.out.println(t.toString());
     }
+
 }
