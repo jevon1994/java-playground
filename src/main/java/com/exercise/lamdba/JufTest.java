@@ -22,8 +22,12 @@ public class JufTest {
             }
         };
 
-//        new JufTest().acceptTest(consumer);
-        new JufTest().andThenTest(consumer,lisiList);
+        new JufTest().acceptTest(s ->{
+            s.setAge(1);
+            s.setName("mj");
+            lisiList.add(s);
+        });
+//        new JufTest().andThenTest(consumer,lisiList);
 
         System.out.println(lisiList);
     }
@@ -33,15 +37,17 @@ public class JufTest {
      * @param consumer
      */
     public void acceptTest(Consumer<Person> consumer){
-        Stream.of(
-                new Person(21,"zhangsan"),
-                new Person(22,"lisi"),
-                new Person(23,"wangwu"),
-                new Person(24,"wangwu"),
-                new Person(23,"lisi"),
-                new Person(26,"lisi"),
-                new Person(26,"zhangsan")
-        ).forEach(consumer);
+        consumer.accept(new Person());
+//        Stream.of(
+//                new Person(21,"zhangsan"),
+//                new Person(22,"lisi"),
+//                new Person(23,"wangwu"),
+//                new Person(24,"wangwu"),
+//                new Person(23,"lisi"),
+//                new Person(26,"lisi"),
+//                new Person(26,"zhangsan")
+//        ).forEach(consumer);
+
     }
 
     /**
