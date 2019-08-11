@@ -1,4 +1,4 @@
-package com.exercise.DesignPattern.structural;
+package com.designPattern.structural;
 
 import java.util.Enumeration;
 import java.util.Vector;
