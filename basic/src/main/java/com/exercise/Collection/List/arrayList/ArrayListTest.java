@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import java.util.RandomAccess;
+import java.util.stream.Collectors;
 
 /**
  * @desc ArrayList遍历方式和效率的测试程序。
@@ -12,17 +13,21 @@ import java.util.RandomAccess;
 public class ArrayListTest {
 
     public static void main(String[] args) {
-        List list = new ArrayList();
-        for (int i = 0; i < 100000; i++) {
+        List<String> list = null;
+        list.stream().filter(s -> s.equals("1"))
+            .map(o ->{
+                return o + "2";
+            }).collect(Collectors.toList());
+        /*for (int i = 0; i < 100000; i++) {
             list.add(i);
         }
-        //isRandomAccessSupported(list);
-//        iteratorThroughRandomAccess(list);
+        isRandomAccessSupported(list);
+        iteratorThroughRandomAccess(list);
         iteratorThroughIterator(list);
         iteratorThroughFor2(list);
 
-        // stream access
-        getList(list);
+//         stream access
+        getList(list);*/
 
     }
 

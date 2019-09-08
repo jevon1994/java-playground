@@ -1,4 +1,4 @@
-package com.designPattern.headfirst.chap1;
+package com.designPattern.headfirst.chap1_observer.native_observer;
 
 abstract class Duck {
     FlyBehavior flyBehavior;
@@ -12,11 +12,11 @@ abstract class Duck {
      *
      * @param fb
      */
-    public void setFlyBehavior(FlyBehavior fb) {
+    void setFlyBehavior(FlyBehavior fb) {
         flyBehavior = fb;
     }
 
-    public void setQuackBehavior(QuackBehavior qb) {
+    void setQuackBehavior(QuackBehavior qb) {
         quackBehavior = qb;
     }
 

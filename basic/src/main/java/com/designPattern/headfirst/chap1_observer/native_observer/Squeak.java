@@ -1,4 +1,4 @@
-package com.designPattern.headfirst.chap1;
+package com.designPattern.headfirst.chap1_observer.native_observer;
 
 public class Squeak implements QuackBehavior {
     @Override
