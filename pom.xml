@@ -26,6 +26,7 @@
   <modules>
     <module>spring</module>
     <module>basic</module>
+    <module>jdk</module>
   </modules>
   <dependencies>
     <dependency>
