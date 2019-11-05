@@ -28,13 +28,7 @@ package java.lang;
 import java.io.ObjectStreamField;
 import java.io.UnsupportedEncodingException;
 import java.nio.charset.Charset;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.Formatter;
-import java.util.Locale;
-import java.util.Objects;
-import java.util.StringJoiner;
+import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.regex.PatternSyntaxException;
@@ -711,7 +705,7 @@ public final class String
             throw new IndexOutOfBoundsException();
         }
         return Character.offsetByCodePointsImpl(value, 0, value.length,
-                                                index, codePointOffset);
+                index, codePointOffset);
     }
 
     /**
@@ -1013,8 +1007,8 @@ public final class String
     public boolean equalsIgnoreCase(String anotherString) {
         return (this == anotherString) ? true
                 : (anotherString != null)
-                  && (anotherString.value.length == value.length)
-                  && regionMatches(true, 0, anotherString, 0, value.length);
+                && (anotherString.value.length == value.length)
+                && regionMatches(true, 0, anotherString, 0, value.length);
     }
 
     /**
@@ -1126,7 +1120,9 @@ public final class String
         /**
          * Replaces the de-serialized object.
          */
-        private Object readResolve() { return CASE_INSENSITIVE_ORDER; }
+        private Object readResolve() {
+            return CASE_INSENSITIVE_ORDER;
+        }
     }
 
     /**
@@ -1193,8 +1189,8 @@ public final class String
         int po = ooffset;
         // Note: toffset, ooffset, or len might be near -1>>>1.
         if ((ooffset < 0) || (toffset < 0)
-            || (toffset > (long) value.length - len)
-            || (ooffset > (long) other.value.length - len)) {
+                || (toffset > (long) value.length - len)
+                || (ooffset > (long) other.value.length - len)) {
             return false;
         }
         while (len-- > 0) {
@@ -1263,8 +1259,8 @@ public final class String
         int po = ooffset;
         // Note: toffset, ooffset, or len might be near -1>>>1.
         if ((ooffset < 0) || (toffset < 0)
-            || (toffset > (long) value.length - len)
-            || (ooffset > (long) other.value.length - len)) {
+                || (toffset > (long) value.length - len)
+                || (ooffset > (long) other.value.length - len)) {
             return false;
         }
         while (len-- > 0) {
@@ -1378,6 +1374,7 @@ public final class String
      */
     /**
      * 降低hashcode冲突概率
+     *
      * @return
      */
     public int hashCode() {
@@ -1635,7 +1632,7 @@ public final class String
      */
     public int indexOf(String str, int fromIndex) {
         return indexOf(value, 0, value.length,
-                       str.value, 0, str.value.length, fromIndex);
+                str.value, 0, str.value.length, fromIndex);
     }
 
     /**
@@ -1652,8 +1649,8 @@ public final class String
     static int indexOf(char[] source, int sourceOffset, int sourceCount,
                        String target, int fromIndex) {
         return indexOf(source, sourceOffset, sourceCount,
-                       target.value, 0, target.value.length,
-                       fromIndex);
+                target.value, 0, target.value.length,
+                fromIndex);
     }
 
     /**
@@ -1696,7 +1693,7 @@ public final class String
                 int j = i + 1;
                 int end = j + targetCount - 1;
                 for (int k = targetOffset + 1; j < end && source[j]
-                                                          == target[k]; j++, k++)
+                        == target[k]; j++, k++)
                     ;
 
                 if (j == end) {
@@ -1745,7 +1742,7 @@ public final class String
      */
     public int lastIndexOf(String str, int fromIndex) {
         return lastIndexOf(value, 0, value.length,
-                           str.value, 0, str.value.length, fromIndex);
+                str.value, 0, str.value.length, fromIndex);
     }
 
     /**
@@ -1762,8 +1759,8 @@ public final class String
     static int lastIndexOf(char[] source, int sourceOffset, int sourceCount,
                            String target, int fromIndex) {
         return lastIndexOf(source, sourceOffset, sourceCount,
-                           target.value, 0, target.value.length,
-                           fromIndex);
+                target.value, 0, target.value.length,
+                fromIndex);
     }
 
     /**
@@ -2221,14 +2218,14 @@ public final class String
          */
         char ch = 0;
         if (((regex.value.length == 1 && // 长度为1
-              ".$|()[{^?*+\\".indexOf(ch = regex.charAt(0)) == -1) || // 过滤特殊符号
-             (regex.length() == 2 && // 长度为2
-              regex.charAt(0) == '\\' && // 过滤转义符
-              (((ch = regex.charAt(1)) - '0') | ('9' - ch)) < 0 && //第二位不是0-9之间 '0'转换为int为48 '9'转换为int为57
-              ((ch - 'a') | ('z' - ch)) < 0 && // 过滤a-z
-              ((ch - 'A') | ('Z' - ch)) < 0)) && // 过滤A-Z
-            (ch < Character.MIN_HIGH_SURROGATE ||      //判断分隔符不在特殊符号中
-             ch > Character.MAX_LOW_SURROGATE)) {
+                ".$|()[{^?*+\\".indexOf(ch = regex.charAt(0)) == -1) || // 过滤特殊符号
+                (regex.length() == 2 && // 长度为2
+                        regex.charAt(0) == '\\' && // 过滤转义符
+                        (((ch = regex.charAt(1)) - '0') | ('9' - ch)) < 0 && //第二位不是0-9之间 '0'转换为int为48 '9'转换为int为57
+                        ((ch - 'a') | ('z' - ch)) < 0 && // 过滤a-z
+                        ((ch - 'A') | ('Z' - ch)) < 0)) && // 过滤A-Z
+                (ch < Character.MIN_HIGH_SURROGATE ||      //判断分隔符不在特殊符号中
+                        ch > Character.MAX_LOW_SURROGATE)) {
             int off = 0; //当前索引
             int next = 0; //下一个分割符出现的索引
             boolean limited = limit > 0; //只分割前limit份还是全部分割,limit=0代表全部分割
@@ -2444,7 +2441,7 @@ public final class String
             for (firstUpper = 0; firstUpper < len; ) {
                 char c = value[firstUpper];
                 if ((c >= Character.MIN_HIGH_SURROGATE)
-                    && (c <= Character.MAX_HIGH_SURROGATE)) {
+                        && (c <= Character.MAX_HIGH_SURROGATE)) {
                     int supplChar = codePointAt(firstUpper);
                     if (supplChar != Character.toLowerCase(supplChar)) {
                         break scan;
@@ -2477,21 +2474,21 @@ public final class String
         for (int i = firstUpper; i < len; i += srcCount) {
             srcChar = (int) value[i];
             if ((char) srcChar >= Character.MIN_HIGH_SURROGATE
-                && (char) srcChar <= Character.MAX_HIGH_SURROGATE) {
+                    && (char) srcChar <= Character.MAX_HIGH_SURROGATE) {
                 srcChar = codePointAt(i);
                 srcCount = Character.charCount(srcChar);
             } else {
                 srcCount = 1;
             }
             if (localeDependent ||
-                srcChar == '\u03A3' || // GREEK CAPITAL LETTER SIGMA
-                srcChar == '\u0130') { // LATIN CAPITAL LETTER I WITH DOT ABOVE
+                    srcChar == '\u03A3' || // GREEK CAPITAL LETTER SIGMA
+                    srcChar == '\u0130') { // LATIN CAPITAL LETTER I WITH DOT ABOVE
                 lowerChar = ConditionalSpecialCasing.toLowerCaseEx(this, i, locale);
             } else {
                 lowerChar = Character.toLowerCase(srcChar);
             }
             if ((lowerChar == Character.ERROR)
-                || (lowerChar >= Character.MIN_SUPPLEMENTARY_CODE_POINT)) {
+                    || (lowerChar >= Character.MIN_SUPPLEMENTARY_CODE_POINT)) {
                 if (lowerChar == Character.ERROR) {
                     lowerCharArray =
                             ConditionalSpecialCasing.toLowerCaseCharArray(this, i, locale);
@@ -2608,7 +2605,7 @@ public final class String
                 int c = (int) value[firstLower];
                 int srcCount;
                 if ((c >= Character.MIN_HIGH_SURROGATE)
-                    && (c <= Character.MAX_HIGH_SURROGATE)) {
+                        && (c <= Character.MAX_HIGH_SURROGATE)) {
                     c = codePointAt(firstLower);
                     srcCount = Character.charCount(c);
                 } else {
@@ -2616,7 +2613,7 @@ public final class String
                 }
                 int upperCaseChar = Character.toUpperCaseEx(c);
                 if ((upperCaseChar == Character.ERROR)
-                    || (c != upperCaseChar)) {
+                        || (c != upperCaseChar)) {
                     break scan;
                 }
                 firstLower += srcCount;
@@ -2641,7 +2638,7 @@ public final class String
         for (int i = firstLower; i < len; i += srcCount) {
             srcChar = (int) value[i];
             if ((char) srcChar >= Character.MIN_HIGH_SURROGATE &&
-                (char) srcChar <= Character.MAX_HIGH_SURROGATE) {
+                    (char) srcChar <= Character.MAX_HIGH_SURROGATE) {
                 srcChar = codePointAt(i);
                 srcCount = Character.charCount(srcChar);
             } else {
@@ -2653,7 +2650,7 @@ public final class String
                 upperChar = Character.toUpperCaseEx(srcChar);
             }
             if ((upperChar == Character.ERROR)
-                || (upperChar >= Character.MIN_SUPPLEMENTARY_CODE_POINT)) {
+                    || (upperChar >= Character.MIN_SUPPLEMENTARY_CODE_POINT)) {
                 if (upperChar == Character.ERROR) {
                     if (localeDependent) {
                         upperCharArray =
@@ -2770,6 +2767,13 @@ public final class String
      * @return a newly allocated character array whose length is the length
      * of this string and whose contents are initialized to contain
      * the character sequence represented by this string.
+     */
+    /**
+     * 当BootstrapClassloader加载这两个类时候顺序是不同的
+     * 当String.class被加载进内存的时候,Arrays此时没有被加载
+     * System.arrayCopy是使用native代码
+     *
+     * @return
      */
     public char[] toCharArray() {
         // Cannot use Arrays.copyOf because of class initialization order issues
