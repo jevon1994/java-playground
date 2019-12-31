@@ -3,6 +3,7 @@ package com.exercise.functional;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.function.Function;
+import java.util.stream.Stream;
 
 @Slf4j
 public class FunctionTest {
