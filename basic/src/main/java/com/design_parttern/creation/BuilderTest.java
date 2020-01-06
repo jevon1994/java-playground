@@ -2,44 +2,65 @@ package com.design_parttern.creation;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.extern.slf4j.Slf4j;
 
 /**
- * 建造者
+ * \建造者模式
  */
+@Slf4j
 public class BuilderTest {
     public static void main(String[] args) {
-        BuilderClass builderClass = new ConcreteBuilder();
-        Director director = new Director(builderClass);
-        director.construct();
-        builderClass.retrieveResult();
+        Builder builder = new ConcreteBuilder();
+        Engineer engineer = new Engineer(builder);
+        Rocket rocket = engineer.create();
+        log.info("{}", rocket);
     }
+}
 
+interface Builder {
+    void buildEngine();
 
+    void buildConsole();
+
+    Rocket buildRocket();
 }
 
 @Data
-class Prod {
-    private String prod;
+class Rocket {
+    private String engine;
+    private String console;
+
+    void launch() {
+        System.out.println("rocket launch");
+    }
 }
 
-interface BuilderClass {
-    Prod retrieveResult();
-}
-
-class ConcreteBuilder implements BuilderClass {
-    private Prod prod = new Prod();
+class ConcreteBuilder implements Builder {
+    private Rocket rocket = new Rocket();
 
     @Override
-    public Prod retrieveResult() {
-        return prod;
+    public void buildEngine() {
+        rocket.setEngine("engine");
+    }
+
+    @Override
+    public void buildConsole() {
+        rocket.setConsole("console");
+    }
+
+    @Override
+    public Rocket buildRocket() {
+        return rocket;
     }
 }
 
 @AllArgsConstructor
-class Director {
-    private BuilderClass builderClass;
+class Engineer {
+    private Builder builder;
 
-    public void construct() {
-        builderClass.retrieveResult();
+    public Rocket create() {
+        builder.buildConsole();
+        builder.buildEngine();
+        return builder.buildRocket();
     }
 }
