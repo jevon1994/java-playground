@@ -5,7 +5,9 @@ import java.util.Observer;
 
 public class ObserverTest {
     public static void main(String[] args) {
+        // 被观察者
         SelfObservable selfObservable = new SelfObservable(1);
+        //观察者
         SelfObserver selfObserverA = new SelfObserver("A");
         SelfObserver selfObserverB = new SelfObserver("B");
         selfObservable.addObserver(selfObserverA);
