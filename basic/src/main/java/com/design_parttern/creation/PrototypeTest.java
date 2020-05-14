@@ -34,7 +34,7 @@ class Prototype implements Cloneable {
 
 
     @Override
-    protected Prototype clone() throws CloneNotSupportedException {
+    public Prototype clone() throws CloneNotSupportedException {
         Prototype prototype = (Prototype) super.clone();
         prototype.map = map;
         prototype.name = name;
