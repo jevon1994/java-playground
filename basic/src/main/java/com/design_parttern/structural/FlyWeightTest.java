@@ -28,7 +28,6 @@ public class FlyWeightTest {
         @SneakyThrows
         private ConnectionPool() {
             pool = new Vector<Connection>(poolSize);
-
             for (int i = 0; i < poolSize; i++) {
                 try {
                     Class.forName(driverClassName);

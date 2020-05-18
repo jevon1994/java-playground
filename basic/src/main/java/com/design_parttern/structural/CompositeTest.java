@@ -7,38 +7,64 @@ import java.util.List;
 
 public class CompositeTest {
     public static void main(String[] args) {
-        Tree tree = new Tree("A");
-        TreeNode childA = new TreeNode("B");
-        TreeNode childB = new TreeNode("C");
-        childB.getChildren().add(childA);
-        tree.setTreeNode(childB);
+        AbstractComponent tree = new Tree("1", "parent");
+        AbstractComponent sub2 = new TreeNode("2", "sub2");
+        AbstractComponent sub3 = new TreeNode("3", "sub3");
+        sub2.add(sub3);
+        tree.add(sub2);
+        tree.print();
+        sub2.print();
+        sub3.print();
+
     }
 }
 
-@Data
-class Tree {
-    private TreeNode treeNode;
+interface AbstractComponent {
+    void add(AbstractComponent abstractComponent);
 
-    public Tree(String name) {
-        treeNode = new TreeNode(name);
-    }
+    void print();
 }
 
 @Data
-class TreeNode {
-    private TreeNode treeNode;
+class Tree implements AbstractComponent {
+    private String layer;
     private String name;
-    private List<TreeNode> children = new ArrayList();
+    private List<AbstractComponent> children = new ArrayList();
 
-    public TreeNode(String name) {
+    public Tree(String layer, String name) {
         this.name = name;
+        this.layer = layer;
     }
 
-    public void addChild(TreeNode treeNode) {
-        children.add(treeNode);
+    @Override
+    public void add(AbstractComponent abstractComponent) {
+        this.children.add(abstractComponent);
     }
 
-    public void removeChild(TreeNode node) {
-        children.remove(node);
+    @Override
+    public void print() {
+        System.out.println(layer + "|----|" + name);
+    }
+}
+
+@Data
+class TreeNode implements AbstractComponent {
+    private String layer;
+    private String name;
+    private List<AbstractComponent> children = new ArrayList();
+
+    public TreeNode(String layer, String name) {
+        this.name = name;
+        this.layer = layer;
+    }
+
+    @Override
+    public void add(AbstractComponent abstractComponent) {
+        this.children.add(abstractComponent);
+    }
+
+    @Override
+    public void print() {
+        System.out.println(layer + "|----|" + name);
     }
 }

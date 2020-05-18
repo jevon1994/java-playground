@@ -4,8 +4,9 @@ import lombok.AllArgsConstructor;
 
 public class BridgeTest {
     public static void main(String[] args) {
-        Destination destination = new DestinationA();
-        Bridge bridge = new Bridge(destination);
+        Destination destinationA = new DestinationA();
+        Destination destinationB = new DestinationB();
+        Bridge bridge = new Bridge(destinationB);
         bridge.bridgeDestination();
     }
 }
@@ -30,10 +31,11 @@ class DestinationB implements Destination {
     }
 }
 
-@AllArgsConstructor
 class Bridge {
     private Destination destination;
-
+    public Bridge(Destination destination){
+        this.destination = destination;
+    }
     public void bridgeDestination() {
         destination.arrive();
     }

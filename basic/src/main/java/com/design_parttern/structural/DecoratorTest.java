@@ -39,6 +39,7 @@ class ConcreteDecorator extends Decorator {
 
     @Override
     public void opertion() {
+        System.out.println("增加了新功能");
         super.opertion();
     }
 }

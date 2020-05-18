@@ -4,8 +4,10 @@ import lombok.AllArgsConstructor;
 
 public class AdapterTest {
     public static void main(String[] args) {
-        Target target = new ClassAdapter();
-        target.invoke();
+        Target classAdapter = new ClassAdapter();
+        classAdapter.invoke();
+        Target objApapter = new ObjectAdapter(new Adaptee());
+        objApapter.invoke();
     }
 }
 
@@ -15,7 +17,7 @@ interface Target {
 
 class Adaptee {
     public void concreteInvoke() {
-        //todo sth
+        System.out.println("real invoke");
     }
 }
 
