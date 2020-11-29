@@ -1,0 +1,11 @@
+
+>
+java:S1148!"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’÷Ý«
+L
+java:S1854"6Remove this useless assignment to local variable "t2".(¼ÕÉÀ
+\
+java:S2142 "FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(–Àšàûÿÿÿÿ
+=
+java:S1481"'Remove this unused "t2" local variable.(¼ÕÉÀ

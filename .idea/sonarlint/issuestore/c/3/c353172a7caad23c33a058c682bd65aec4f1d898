@@ -1,0 +1,21 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(“åÏœ
+J
+java:S3740 "/Provide the parametrized type for this generic.(¦ƒ‰¡øÿÿÿÿ
+J
+java:S3740 "/Provide the parametrized type for this generic.(¦ƒ‰¡øÿÿÿÿ
+J
+java:S37401"/Provide the parametrized type for this generic.(‰°í‚ûÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…·ól
+M	java:S1067"9Replace this use of System.out or System.err by a logger.(æ–•c
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(´öÜ¾ıÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(ùÖ¹Ñøÿÿÿÿ
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(­ßÇñıÿÿÿÿ
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(Û—Ñ„
+D	java:S108‘")Either remove or fill this block of code.(‰ÜÏÂüÿÿÿÿ
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(£Ü‰Ğ
+D	java:S108¦")Either remove or fill this block of code.(‰ÜÏÂüÿÿÿÿ
+O	java:S106¬"9Replace this use of System.out or System.err by a logger.(Íë‰
+E
+java:S1481X"*Remove this unused "integ" local variable.(Ûíø¶ıÿÿÿÿ

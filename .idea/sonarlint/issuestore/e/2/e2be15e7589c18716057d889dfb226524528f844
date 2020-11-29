@@ -1,0 +1,130 @@
+
+g	java:S117á	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºøú•
+l	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…½ò‰ÿÿÿÿÿ
+R	java:S125ú"<This block of commented-out lines of code should be removed.(ÊÂ•
+l	java:S116ƒ"QRename this field "m_port" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶†¤õùÿÿÿÿ
+g	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÜ‘ê
+g	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÜ‘ê
+l	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îï›òýÿÿÿÿ
+f
+java:S2259€"J"NullPointerException" will be thrown when invoking method "initialize()".(ë…¾øþÿÿÿÿ
+g	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñò¤
+Q	java:S125ö"<This block of commented-out lines of code should be removed.(—¼“
+l	java:S117ð"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÀƒÆûÿÿÿÿ
+B
+java:S1075Ñ	"&Remove this hard-coded path-delimiter.(¦Ë¯€ÿÿÿÿÿ
+h	java:S116w"SRename this field "m_scheme" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¾„î
+g	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÜ‘ê
+E
+java:S1068•")Remove this unused "DEBUG" private field.(Ö‚ÆÖûÿÿÿÿ
+_
+java:S4635›"HReplace "startsWith" with the overload that accepts an offset parameter.(ÒåÞ¦
+l	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÒßÁüÿÿÿÿ
+l	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßªƒíýÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(ëÃ­•ýÿÿÿÿ
+R	java:S125¾"<This block of commented-out lines of code should be removed.(ÂÇßŠ
+t	java:S135è"YReduce the total number of break and continue statements in this loop to use at most one.(Ôœ«†ùÿÿÿÿ
+Q	java:S125ñ"<This block of commented-out lines of code should be removed.(¥–i
+s	java:S127õ"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ýÿÿÿÿ
+l	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·±ôúýÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(ÿà×úÿÿÿÿ
+X
+java:S1854¢"<Remove this useless assignment to local variable "testChar".(ÅýŠÝúÿÿÿÿ
+R	java:S125ÿ"<This block of commented-out lines of code should be removed.(Í‘ÅË
+W	java:S125˜
+"<This block of commented-out lines of code should be removed.(Ù‘à“ûÿÿÿÿ
+g	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä–¿
+l	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðÅØ‰üÿÿÿÿ
+l	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¢¯áüÿÿÿÿ
+l	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ€ƒæþÿÿÿÿ
+R	java:S125÷"<This block of commented-out lines of code should be removed.(•ƒšå
+g	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä–¿
+V	java:S125"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+l	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¢Ñãÿÿÿÿÿ
+R	java:S125Ä"<This block of commented-out lines of code should be removed.(´Ü¾ß
+W	java:S125°	"<This block of commented-out lines of code should be removed.(ß¾ö½ùÿÿÿÿ
+Q	java:S125“
+"<This block of commented-out lines of code should be removed.(ï¶ñ|
+l	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºå¤ÿøÿÿÿÿ
+l	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ó÷’øÿÿÿÿ
+g	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ²ˆŠ
+i	java:S116{"URename this field "m_userinfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â£æX
+B
+java:S1075»	"&Remove this hard-coded path-delimiter.(‚·ˆáýÿÿÿÿ
+W	java:S125¯"<This block of commented-out lines of code should be removed.(˜ìƒÁÿÿÿÿÿ
+g	java:S117þ
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹çªÕ
+l	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¢¯áüÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(½Øë¸þÿÿÿÿ
+2
+java:S3626ý"Remove this redundant jump.(ÉŠ©ƒ
+l	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó˜é¾ÿÿÿÿÿ
+k	java:S116’"URename this field "m_fragment" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÖË¥
+P
+java:S1854‹"9Remove this useless assignment to local variable "index".(ìÞ™¬
+R	java:S125à"<This block of commented-out lines of code should be removed.(³Ü”¨
+R	java:S125"<This block of commented-out lines of code should be removed.(üÊ€
+n
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÎÐå¥øÿÿÿÿ
+l	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¢¯áüÿÿÿÿ
+g	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ìËÁ
+l	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¢¯áüÿÿÿÿ
+g	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÜ‘ê
+X
+java:S1854§"<Remove this useless assignment to local variable "testChar".(ÅýŠÝúÿÿÿÿ
+g	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¬Š
+P
+java:S1854š"9Remove this useless assignment to local variable "index".(ìÞ™¬
+f	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ääó
+g	java:S117‰
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÀ¬
+l	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îï›òýÿÿÿÿ
+n
+java:S3776ð"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(íÀƒÆûÿÿÿÿ
+l	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¹ÆŸûÿÿÿÿ
+g	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÜ‘ê
+W	java:S125œ
+"<This block of commented-out lines of code should be removed.(ÚçãÆþÿÿÿÿ
+F
+java:S1066¦"/Merge this if statement with the enclosing one.(Ÿ½¯À
+X
+java:S1854Í"<Remove this useless assignment to local variable "testChar".(ÅýŠÝúÿÿÿÿ
+g	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Œ·Ä
+W	java:S125µ"<This block of commented-out lines of code should be removed.(êêÖüüÿÿÿÿ
+X
+java:S1854æ"<Remove this useless assignment to local variable "testChar".(ÅýŠÝúÿÿÿÿ
+f	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úöˆr
+K
+java:S1066ý"/Merge this if statement with the enclosing one.(µíãåþÿÿÿÿ
+n
+java:S3776¦	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(›Ë«îùÿÿÿÿ
+f	java:S117Ý"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—“©=
+n	java:S116Ž"XRename this field "m_queryString" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–žÙµ
+l	java:S117­
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âþüìþÿÿÿÿ
+n
+java:S3776­
+"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Âþüìþÿÿÿÿ
+F
+java:S1066§"/Merge this if statement with the enclosing one.(¨Ÿàû
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(‡Þîºþÿÿÿÿ
+g	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÜ‘ê
+i
+java:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(Ñò¤
+g	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÜ‘ê
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¼ßÚýÿÿÿÿ
+l	java:S117Š	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÕƒ£úÿÿÿÿ
+l	java:S116‡"QRename this field "m_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬î ûÿÿÿÿ
+g	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ìËÁ
+n
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(Îï›òýÿÿÿÿ
+l
+java:S3008•"PRename this field "DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‚ÆÖûÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(†õ„§øÿÿÿÿ
+l	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¢¯áüÿÿÿÿ
+l	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÐå¥øÿÿÿÿ
+l	java:S117¦	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ë«îùÿÿÿÿ
+n
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(…½ò‰ÿÿÿÿÿ
+k	java:S116"QRename this field "m_host" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¹ª×úÿÿÿÿ

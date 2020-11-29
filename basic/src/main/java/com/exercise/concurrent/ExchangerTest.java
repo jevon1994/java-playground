@@ -1,8 +1,5 @@
 package com.exercise.concurrent;
 
-
-import org.apache.log4j.Logger;
-
 import java.util.concurrent.Exchanger;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -10,7 +7,6 @@ import java.util.concurrent.TimeUnit;
 
 public class ExchangerTest {
 
-    protected static final Logger log = Logger.getLogger(ExchangerTest.class);
     private static volatile boolean isDone = false;
 
     static class ExchangerProducer implements Runnable {
@@ -32,7 +28,6 @@ public class ExchangerTest {
                         data = exchanger.exchange(data);
                         System.out.println("producer after: " + data);
                     } catch (InterruptedException e) {
-                        log.error(e, e);
                     }
                 }
                 isDone = true;
@@ -43,6 +38,7 @@ public class ExchangerTest {
     static class ExchangerConsumer implements Runnable {
         private Exchanger<Integer> exchanger;
         private static int data = 0;
+
         ExchangerConsumer(Exchanger<Integer> exchanger) {
             this.exchanger = exchanger;
         }
@@ -56,7 +52,6 @@ public class ExchangerTest {
                     TimeUnit.SECONDS.sleep(1);
                     data = exchanger.exchange(data);
                 } catch (InterruptedException e) {
-                    log.error(e, e);
                 }
                 System.out.println("consumer after : " + data);
             }
@@ -74,7 +69,6 @@ public class ExchangerTest {
         try {
             exec.awaitTermination(30, TimeUnit.SECONDS);
         } catch (InterruptedException e) {
-            log.error(e, e);
         }
     }
 }

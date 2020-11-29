@@ -1,0 +1,17 @@
+
+U
+java:S1118%":Add a private constructor to hide the implicit public one.(¹°³Ñýÿÿÿÿ
+|
+java:S18456"aRename field "hooks" to prevent any misunderstanding/clash with field "HOOKS" defined on line 41.(¼¡á¬üÿÿÿÿ
+7
+java:S1116<"Remove this empty statement.(þ•¸íüÿÿÿÿ
+8	java:S131¹""Add a default case to this switch.(þ™ÅÞ
+8	java:S131à""Add a default case to this switch.(þ™ÅÞ
+]
+java:S2094<"BRemove this empty class, write its code or make it an "interface".(þ•¸íüÿÿÿÿ
+t
+java:S1488~"YImmediately throw this expression instead of assigning it to the temporary variable "td".(ÿä§äûÿÿÿÿ
+[
+java:S1193}"@Replace the usage of the "instanceof" operator by a catch block.(…å™Øýÿÿÿÿ
+@
+java:S1181|"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ

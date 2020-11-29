@@ -1,102 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="36606c64-36bb-4e06-be18-ee0980acae13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/toy.kotlin_module" afterDir="false" />
+    <list default="true" id="36606c64-36bb-4e06-be18-ee0980acae13" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/java-playground.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/0767b767054911b2dbde0cc84e6e8c18891533d5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0aafc5862129e33ec9746ca4d17056e099fb3dca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0acf1296f6b444f5142362ad518c10f6cf642d1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0cf3c761e69d8e65d7cbbfa9f128326c37ea5dfa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e2f74ec1a2075702f6f72a5d4db2121bbbbb940" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e413c67edb45991095ca1a99703ead0812253b0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/1102227569aac81c55fd5ee28191f95ee73ded38" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/13082378eec93430105250ed8451f3a9ef1223a9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/1561eedb6139aada4441a4746ea88a2823219590" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15c5621ddfa3020a32e932715b60e01a1c5568a4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16a23c710491fef3b4f9a3da2929f97df6f66691" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a7acbd3549f62cab9a6d76931dfe9126faaab0d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b031ca2e4d6e11123c32f9d93b29158dd25276a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c7ed112a78e871c0b401a6d95ccf49de9a991cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/211ef3f78cd23023102e2daaa1a9486a0ad0ed77" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/275dbb1bc8b3c0de85ec9c8584969e6f7869f37d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29fe47752464b71663b99c7196361460a5b3e474" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a64534c0665a2075d3b3360ed1f708834f0ba24" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f7530cd258353634d9e4dcda65d8c3572d7b824" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31ada45f25fc6c5f8dc6d239cb490d9d7400ea69" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/333b7944645817f16b5d6540443cf48339ec57d1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35987686bff1779599358348e5857f80c7986e27" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/398452440bc4191163b4f1a2863646c23983fb03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3afe8e3acf031e0f2b50862dbf8ef48089b2110b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b5886631b69126c4657467f37d8645a8a7bbe15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3e0537b880bc009021d7c2b961a4583d5cc12c76" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f48800f7cd1b589c5caf8d17ff86ed8f706bf70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44aa9f6c2b67f88dc7fe1f5f3ec99694bc1248db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/478bf5857430252066f6f07493857f83774d3ea0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/482a0fba9e74e91ee6394aa7c41d2aea7e7bffb4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/48836aa37faf7a9bdf8790856b4892f130cbd0fb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a3c21b0b7bf53dc9b758698076ed4002463be06" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b260ddec576a60c7d4789d60f20a63006d17eb1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4fe69c3e368e4aaea3ddf62662e44e8a3340a4bb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55ff83264cb9fc93e5d37870a1b81863be1c0344" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56284aba3c16bf44f2893412440c629dec96ab20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59d5c676c9d9549aa1892f0680f7c9cc9ec1ac8f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b1558bc04458567cf207c86df5d3dcbf7c76ffb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5cd0810c086a8a329140263d142c88e54a463946" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d07da7d1897ef5f6df9a36eae8b799ba5a51daa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60a1539fc3456d212e73bd17062d0e2f3ed08b51" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/61403c80ddc0b28b6fc63c1324a8ae10ac1aae6a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/6561c9aba9a0017f74a9e1969c38d9e1f6e04564" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/656c70ed05b18320b65bff5fd2269cbf1456ceae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66ba507496daf5b584d81eca1de7dd10ab80fac2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/685cdae2c89e9ddf20439fc76d2aa266e8aaf402" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6c54461a50747f37bf8eb384c639c2c1c4182db7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/7096c7037b07f1c30b85663cfe59763933434a6c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/712e84f9c96c59fdf5aeabb2be4866355f39dc30" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71ed72d79c282a15d0dfd0e58b1b5af54964b640" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/752b46ef4b24ca329c8790bf3c85844a6086aa70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7ade2329fb9421086abc3ed821ce0e2447b45125" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c1d3ab083dffaed8c882b5d69c12c31c296be12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7cb1ea84f5f6b1783dc6a9fd03f6cb83c00f6b7f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d18c4c9868988857ffc39d0e6b6155de86cf1a2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/80f977129ad0a5b0cc36dc971e0ddc87f91de17c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85ed2d77e080adc34f89d731cd7117240a3c92cb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/949069946d94c2127ae7edfe22fff15cf7856bc7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/97d4e8c65fdad92b84374cc983848b2f49a002e9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9e3026acd4f8ba347b6e5d24bf696263e3fe352d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9e3acba22c757f13c667bb91393645d587d7f21e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe2504a18f81ca12da86855741692949764da7c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a23c58da2bfc3938bdd2f0de38c178bf72596513" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a6ce8999045b1785bb7d9c2e772a24d7bcb6968d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9e3d52cf80dc9219225fed8ce55cbcde2521994" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af59662a6db50282117c92fee1db1256c7c8f9f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/afcecd504e63f32d7a61fab7707b6341733b2432" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b093cb72fc56f2dd18f0ef64fea292cc3c6daab4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0c466b0754cb0cb24238bb128dabcb8f641239d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b27d175102daebfac43702e54f8b1bf1533ef6a9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b638d11ca15cd3bcdb95a08b69867d4fe566a4fb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b884dab420f09b33f413133cc26f506582f3ce0c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd00f15f8ad4517e72e97257abc5862ff1de2509" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd056a90d1903668c58a2163f69c980a0514598c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c2a32a1c9b962569b27b7212e61a215e3009edc3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c353172a7caad23c33a058c682bd65aec4f1d898" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c35ece93055f6413a62794735647c46240f1801c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4fec31c62f27954c0bfd8e1acd20b54712c27ab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c506f7bb389b9725c851fc30d6e3b6c094337353" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c54ff3efcc98ba06e68d8aa4527fdd46f28b518a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c66e149637ec7cf1ce5290ba6f3bef37dfdbd2d9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c86654e79f903802219e30e5b249d3bb40293a21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8b1f5a64f25e496b386f209808f31575f195f75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cdb6da1cae2e7a770909458243ca1b603d08a852" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d24fb71f92001b0292f2c807ce7e69899cc5ce31" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d2b80e2e33135de6922491cecb53379b09d84877" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d332afecb4c89b5d0022682c233c8f924fa5c4c5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d40df8bdf259695ad70486db2adca6fb7b6e15c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4681a0ae435a0510018a85595e95a65fdd3c309" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d48b8ed75eb3ca2c4a2d856298358bd41b6198e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4f036b47f62f03f41d884d6a6909cd2206c1c5e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d5827b3e00984d90128fb40ac3bfab47d6d5a408" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7856d6bb1ba3364ad1642631a766c2c39abf4c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8300307182777cf15b520a20c802ac9f3279ba3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d92269c5081d32fc3a6dab88b4984acaf5296f63" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db38dd83f26cd8eb72ddd85f897d5e50f7503500" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc993a7d2ab86af325a07afc28335e481c871d76" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de140aa268428a4b58fff2dfc8907df61b9ec582" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/dfe1668710204f437e445c36b3613078674a33b8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2be15e7589c18716057d889dfb226524528f844" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e33ce138206225f23d7a354ef453b3cc9bcbd66f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e7bed79ef935fbbebd3d0588589e18c3b7cc8328" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e7f1e970b77f03c7193139397e7d47d3206a5423" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e80d87e37c2095da9f4927be3270c226a402c19c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9f11b881db4d88254226a7ff7eb71090e5509c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/ee8a2e3fc463d1f2a8a56a85f7f76a80c48c435f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/eeaa88771dca2e895139d88673dfe8ea9257ea89" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2cfc64646fd3b0f49cf366c0f85c5afc7a1b085" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f4292280c5cb46d94f9409baf96e8d17f7604a2b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f59d1412e40e1ab76b427e48305c144c834a75db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6d870528c4e0cbeecbd8b6e1f752f1c35dc09b2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/algorithm/bubblesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/datastructure/algorithm/bubblesort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/array/MaxSumSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/datastructure/array/MaxSumSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/array/SortArrayByParity.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/datastructure/array/SortArrayByParity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/base/backpack.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/datastructure/base/backpack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/list/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/datastructure/list/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/list/dicfind.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/datastructure/list/dicfind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/tree/BinTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/datastructure/tree/BinTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Collection/List/ListCompareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Collection/List/ListCompareTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Collection/List/arrayList/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Collection/List/arrayList/ArrayListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Collection/List/arrayList/ListForRemove.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Collection/List/arrayList/ListForRemove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Collection/List/linkedList/DoublePointLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Collection/List/linkedList/DoublePointLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Collection/List/linkedList/LinkedListThruTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Collection/List/linkedList/LinkedListThruTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Collection/List/linkedList/QueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Collection/List/linkedList/QueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Collection/List/linkedList/StringStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Collection/List/linkedList/StringStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Collection/List/vector/VectorRandomAccessTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Collection/List/vector/VectorRandomAccessTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Collection/Map/ConcurrentHashMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Collection/Map/ConcurrentHashMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Collection/Map/hashMap/HashMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Collection/Map/hashMap/HashMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Collection/Map/hashTable/HashtableIteratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Collection/Map/hashTable/HashtableIteratorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Collection/Map/treeMap/TreeMapIteratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Collection/Map/treeMap/TreeMapIteratorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Collection/Set/TreeSet/TreeSetIteratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Collection/Set/TreeSet/TreeSetIteratorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Collection/Set/TreeSet/TreeSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Collection/Set/TreeSet/TreeSetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Collection/Set/hashSet/HashSetIteratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Collection/Set/hashSet/HashSetIteratorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Collection/Set/hashSet/HashSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Collection/Set/hashSet/HashSetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/CountDownLatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Concurrent/CountDownLatchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/CyclicBarrierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Concurrent/CyclicBarrierTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/ExchangerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Concurrent/ExchangerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/JucMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Concurrent/JucMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/PipedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Concurrent/PipedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/ProducerAndConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Concurrent/ProducerAndConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/SemophoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Concurrent/SemophoreTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/TT.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Concurrent/TT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/TestDeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Concurrent/TestDeadLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/TestJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Concurrent/TestJoin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/TestRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Concurrent/TestRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/TestSynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Concurrent/TestSynchronized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/ThreadCommunication.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Concurrent/ThreadCommunication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/ThreadPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Concurrent/ThreadPoolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/createThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Concurrent/createThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/lock/LockOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Concurrent/lock/LockOps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/lock/ReentrantLockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Concurrent/lock/ReentrantLockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/DesignPattern/creation/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/DesignPattern/creation/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/DesignPattern/structural/ObserverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/DesignPattern/structural/ObserverTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/InnerClass/AnonymousClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/InnerClass/AnonymousClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/InnerClass/LocalInnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/InnerClass/LocalInnerClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/InnerClass/MemberCLass.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/InnerClass/MemberCLass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/InnerClass/StaticClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/InnerClass/StaticClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/Static/Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/Static/Static.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/abstractTest/abstractTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/abstractTest/abstractTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/demo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/demo/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/demo/demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/demo/demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/demo/demo10.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/demo/demo10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/demo/demo11.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/demo/demo11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/demo/demo12.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/demo/demo12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/demo/demo13.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/demo/demo13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/demo/demo14.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/demo/demo14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/demo/demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/demo/demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/demo/demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/demo/demo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/demo/demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/demo/demo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/demo/demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/demo/demo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/demo/demo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/demo/demo6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/demo/demo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/demo/demo7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/demo/demo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/demo/demo8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/demo/demo9.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/demo/demo9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/generic/GenericTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/generic/GenericTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/io/FileStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/io/FileStreamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/io/PipeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/io/PipeExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/lamdba/JufTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/lamdba/JufTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/proxy/Cglib/BookFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/proxy/Cglib/BookFacade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/proxy/Cglib/BookFacadeCglib.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/proxy/Cglib/BookFacadeCglib.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/proxy/Cglib/BookFacadeImpl1.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/proxy/Cglib/BookFacadeImpl1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/proxy/Cglib/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/proxy/Cglib/hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/proxy/JdkProxy/MyInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/proxy/JdkProxy/MyInvocationHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/proxy/JdkProxy/RealSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/proxy/JdkProxy/RealSubject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/proxy/JdkProxy/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/proxy/JdkProxy/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/proxy/JdkProxy/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/proxy/JdkProxy/hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/reflect/reflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main/java/com/exercise/reflect/reflection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/test/java/com/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/toy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/toy.kotlin_module" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/spring/target/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/demo/target/" />
-    <ignored path="$PROJECT_DIR$/basic/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,153 +137,93 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="94" column="29" lean-forward="true" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="29" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="37" column="11" lean-forward="true" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="UML Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>registerBeanDefinition</find>
-    </findStrings>
+  <component name="GOROOT" path="/usr/local/opt/go@1.13/libexec" />
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/exercise/Collection/List/arrayList/ArrayListTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/JucMapTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/exercise/lamdba/ConsumerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/exercise/lamdba/JufTest.java" />
-        <option value="$PROJECT_DIR$/demo/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/exercise/String/StringTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-      </list>
-    </option>
-  </component>
+  <component name="JupyterTrust" id="3961f717-e561-4b18-a201-2728a70a033e" />
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\workspace\apache-maven-3.6.0\repository" />
-        <option name="mavenHome" value="D:/ProgramFies/apache-maven-3.6.0" />
-        <option name="userSettingsFile" value="D:\ProgramFies\apache-maven-3.6.0\settings.xml" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8.0_241" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="toy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
-  </component>
+  <component name="ProjectId" id="1Yy6CJv2mvGNNxRTxatEXTObVU3" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="toy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="toy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toy" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
+    <property name="GO_FMT" value="true" />
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\self_space\toy" />
-      <recent name="E:\self_space\toy\demo" />
+      <recent name="$PROJECT_DIR$/jdk/sql" />
+      <recent name="$PROJECT_DIR$/jdk/lang" />
+      <recent name="$PROJECT_DIR$/jdk/nio" />
+      <recent name="$PROJECT_DIR$/jdk/net" />
+      <recent name="$PROJECT_DIR$/jdk/io" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jdk/src/java" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.JufTest">
-    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercise.Collection.List.arrayList.ArrayListTest" />
-      <module name="toy" />
+  <component name="RunManager" selected="Application.DoublyLinkedListTest">
+    <configuration name="DoublyLinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructure.list.DoublyLinkedListTest" />
+      <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercise.Collection.List.arrayList.*" />
+          <option name="PATTERN" value="com.datastructure.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercise.lamdba.ConsumerTest" />
-      <module name="toy" />
+    <configuration name="NetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercise.net.NetTest" />
+      <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercise.lamdba.*" />
+          <option name="PATTERN" value="com.exercise.net.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,12 +244,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JucMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercise.Concurrent.JucMapTest" />
-      <module name="toy" />
+    <configuration name="ReactorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.frame.ReactorTest" />
+      <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercise.Concurrent.*" />
+          <option name="PATTERN" value="com.frame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,28 +257,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JufTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercise.lamdba.JufTest" />
-      <module name="toy" />
+    <configuration name="VavrTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.frame.vavr.VavrTest" />
+      <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercise.lamdba.*" />
+          <option name="PATTERN" value="com.frame.vavr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jdk" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.leon.jdk.JdkApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JufTest" />
-        <item itemvalue="Application.ConsumerTest" />
-        <item itemvalue="Application.JucMapTest" />
-        <item itemvalue="Application.ArrayListTest" />
+        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="Application.VavrTest" />
+        <item itemvalue="Application.ReactorTest" />
+        <item itemvalue="Application.NetTest" />
+        <item itemvalue="Application.DoublyLinkedListTest" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -326,6 +333,137 @@
       <workItem from="1558667069855" duration="1834000" />
       <workItem from="1559033851932" duration="683000" />
       <workItem from="1560734232952" duration="3678000" />
+      <workItem from="1583902362549" duration="5054000" />
+      <workItem from="1583931934605" duration="12000" />
+      <workItem from="1584264524813" duration="1116000" />
+      <workItem from="1584319894604" duration="2177000" />
+      <workItem from="1584334673202" duration="1352000" />
+      <workItem from="1584503588323" duration="16274000" />
+      <workItem from="1584626442477" duration="2042000" />
+      <workItem from="1585747252405" duration="4881000" />
+      <workItem from="1585834164702" duration="1620000" />
+      <workItem from="1586755297424" duration="202000" />
+      <workItem from="1586783871317" duration="7136000" />
+      <workItem from="1586870226645" duration="6589000" />
+      <workItem from="1586999366545" duration="1848000" />
+      <workItem from="1587006608579" duration="699000" />
+      <workItem from="1587008975394" duration="3539000" />
+      <workItem from="1587872660058" duration="615000" />
+      <workItem from="1588746633924" duration="1000" />
+      <workItem from="1588774459895" duration="2210000" />
+      <workItem from="1588815405668" duration="5000" />
+      <workItem from="1588858242052" duration="3838000" />
+      <workItem from="1588943724757" duration="5544000" />
+      <workItem from="1588996849777" duration="2865000" />
+      <workItem from="1589189473509" duration="20000" />
+      <workItem from="1589204641081" duration="2703000" />
+      <workItem from="1589277609386" duration="11000" />
+      <workItem from="1589375900279" duration="2107000" />
+      <workItem from="1589417483003" duration="15000" />
+      <workItem from="1589462031916" duration="7933000" />
+      <workItem from="1589704570462" duration="1494000" />
+      <workItem from="1589711224412" duration="27000" />
+      <workItem from="1589711261163" duration="152000" />
+      <workItem from="1589778540939" duration="2236000" />
+      <workItem from="1589794488224" duration="32000" />
+      <workItem from="1589808193188" duration="6745000" />
+      <workItem from="1589962113797" duration="89000" />
+      <workItem from="1590415606801" duration="1560000" />
+      <workItem from="1590573272888" duration="1209000" />
+      <workItem from="1590721173581" duration="2257000" />
+      <workItem from="1590744596581" duration="944000" />
+      <workItem from="1591588019211" duration="153000" />
+      <workItem from="1591588185426" duration="2702000" />
+      <workItem from="1591839561295" duration="651000" />
+      <workItem from="1592025472177" duration="1378000" />
+      <workItem from="1592030165106" duration="224000" />
+      <workItem from="1592033137037" duration="279000" />
+      <workItem from="1592281957308" duration="7771000" />
+      <workItem from="1592382749754" duration="1236000" />
+      <workItem from="1592383999385" duration="1083000" />
+      <workItem from="1592880326752" duration="1565000" />
+      <workItem from="1592985681040" duration="274000" />
+      <workItem from="1592988611799" duration="92000" />
+      <workItem from="1593309232601" duration="4300000" />
+      <workItem from="1593350872724" duration="1186000" />
+      <workItem from="1593517056268" duration="335000" />
+      <workItem from="1593854914994" duration="12282000" />
+      <workItem from="1593945140368" duration="1114000" />
+      <workItem from="1593957478571" duration="3639000" />
+      <workItem from="1594017146872" duration="170000" />
+      <workItem from="1594027418523" duration="9971000" />
+      <workItem from="1594194775967" duration="190000" />
+      <workItem from="1594195010609" duration="6915000" />
+      <workItem from="1594350194574" duration="6353000" />
+      <workItem from="1594542023116" duration="666000" />
+      <workItem from="1594543064335" duration="3919000" />
+      <workItem from="1594619226307" duration="14396000" />
+      <workItem from="1594871040818" duration="5329000" />
+      <workItem from="1595320829356" duration="9270000" />
+      <workItem from="1595426690733" duration="1729000" />
+      <workItem from="1595569058775" duration="1866000" />
+      <workItem from="1595902475194" duration="4126000" />
+      <workItem from="1595944401696" duration="2411000" />
+      <workItem from="1596029245285" duration="3877000" />
+      <workItem from="1596097772613" duration="1870000" />
+      <workItem from="1596194332644" duration="745000" />
+      <workItem from="1596423947871" duration="2104000" />
+      <workItem from="1596705018436" duration="623000" />
+      <workItem from="1596871564501" duration="641000" />
+      <workItem from="1597109716855" duration="2507000" />
+      <workItem from="1597202381265" duration="602000" />
+      <workItem from="1597213529274" duration="18000" />
+      <workItem from="1597213551642" duration="1000" />
+      <workItem from="1599013269849" duration="1034000" />
+      <workItem from="1599127094740" duration="1174000" />
+      <workItem from="1599207048084" duration="2112000" />
+      <workItem from="1599468899609" duration="673000" />
+      <workItem from="1599528109845" duration="1707000" />
+      <workItem from="1599794783095" duration="332000" />
+      <workItem from="1600069714631" duration="591000" />
+      <workItem from="1600074657766" duration="3161000" />
+      <workItem from="1600248359618" duration="1398000" />
+      <workItem from="1600309759763" duration="4085000" />
+      <workItem from="1600412264586" duration="8323000" />
+      <workItem from="1600736429752" duration="578000" />
+      <workItem from="1600751227033" duration="6142000" />
+      <workItem from="1600927467150" duration="2344000" />
+      <workItem from="1601259507317" duration="1029000" />
+      <workItem from="1601280519331" duration="3346000" />
+      <workItem from="1601341883261" duration="549000" />
+      <workItem from="1601369515898" duration="130000" />
+      <workItem from="1602211756216" duration="299000" />
+      <workItem from="1602321560962" duration="429000" />
+      <workItem from="1602485971520" duration="5213000" />
+      <workItem from="1602754533217" duration="292000" />
+      <workItem from="1602817959263" duration="615000" />
+      <workItem from="1603694953214" duration="1428000" />
+      <workItem from="1603789216377" duration="1650000" />
+      <workItem from="1603868182298" duration="105000" />
+      <workItem from="1603878928079" duration="816000" />
+      <workItem from="1604038086337" duration="26000" />
+      <workItem from="1604219602706" duration="369000" />
+      <workItem from="1604298181087" duration="1604000" />
+      <workItem from="1604396699557" duration="357000" />
+      <workItem from="1604468082883" duration="69000" />
+      <workItem from="1604469037291" duration="204000" />
+      <workItem from="1604570464649" duration="843000" />
+      <workItem from="1604734366758" duration="944000" />
+      <workItem from="1604737667852" duration="578000" />
+      <workItem from="1604992623177" duration="196000" />
+      <workItem from="1604992964991" duration="769000" />
+      <workItem from="1605170661295" duration="1297000" />
+      <workItem from="1605245464056" duration="206000" />
+      <workItem from="1605251085629" duration="17000" />
+      <workItem from="1605340280563" duration="571000" />
+      <workItem from="1605340995340" duration="1018000" />
+      <workItem from="1605689211477" duration="443000" />
+      <workItem from="1605690605028" duration="656000" />
+      <workItem from="1606120567405" duration="806000" />
+      <workItem from="1606179971620" duration="544000" />
+      <workItem from="1606207928728" duration="1085000" />
+      <workItem from="1606267319827" duration="132000" />
+      <workItem from="1606620366695" duration="809000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 排序并发检测">
       <created>1554026341856</created>
@@ -355,341 +493,175 @@
       <option name="project" value="LOCAL" />
       <updated>1560739871559</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: test">
+      <created>1586788294938</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586788294938</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: design_pattern step1 done">
+      <created>1586875894707</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586875894707</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: 结构更新，设计模式方法完善">
+      <created>1589467999966</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589467999966</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: 结构型调试">
+      <created>1589814645260</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589814645260</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <created>1606620973884</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606620973884</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17491000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22424893" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Designer" order="4" />
-      <window_info id="Web" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Statistic" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32912844" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3739035" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
-      <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49946353" visible="true" weight="0.26028922" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005365" side_tool="true" weight="0.32925472" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.2872807" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" />
-      <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" weight="0.32894737" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.3299356" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Dashboard integration" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Bean Validation" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="UI Designer" order="0" />
-      <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Web" order="3" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.25" />
-      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="MyBatis Sql Log" order="0" />
-      <window_info anchor="bottom" id="Spring" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" weight="0.32912844" />
-      <window_info anchor="bottom" id="Messages" order="5" weight="0.28784403" />
-      <window_info anchor="bottom" id="Java Enterprise" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Message" order="9" />
-      <window_info anchor="bottom" id="Find" order="10" />
-      <window_info anchor="bottom" id="Run" order="11" />
-      <window_info anchor="bottom" id="Debug" order="12" weight="0.27178898" />
-      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="15" />
-      <window_info anchor="right" id="Maven" order="0" weight="0.3299356" />
-      <window_info anchor="right" id="Palette" order="1" />
-      <window_info anchor="right" id="Dashboard integration" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Bean Validation" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: 排序并发检测" />
     <MESSAGE value="feat: 函数式接口支持lambda的api" />
     <MESSAGE value="#ignore" />
     <MESSAGE value="feat: 防止冲突" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 防止冲突" />
+    <MESSAGE value="feat: test" />
+    <MESSAGE value="feat: design_pattern step1 done" />
+    <MESSAGE value="feat: 结构更新，设计模式方法完善" />
+    <MESSAGE value="feat: 结构型调试" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/exercise/Collection/Map/hashMap/HashMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/TestSynchronized.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/TestRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/TestDeadLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/ProgramFies/jdk/src.zip!/java/util/stream/Collectors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14580">
-          <caret line="803" column="4" selection-start-line="803" selection-start-column="4" selection-end-line="803" selection-end-column="4" />
-          <folding>
-            <element signature="e#34987#34988#0" expanded="true" />
-            <element signature="e#35042#35043#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/exercise/Collection/List/arrayList/ArrayListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1240">
-          <caret line="65" column="21" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/ProgramFies/jdk/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/JucMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/exercise/lamdba/JufTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/ProgramFies/jdk/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/datastructure/algorithm/bubblesort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/datastructure/array/MaxSumSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring/src/main/java/cn/leon/SelfBeanReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring/src/main/java/cn/leon/SelfBeanDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring/src/main/java/cn/leon/factory/SelfBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring/src/main/java/cn/leon/factory/SelfAutowireCapableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/ProgramFies/jdk/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3740">
-          <caret line="196" column="67" selection-start-line="196" selection-start-column="67" selection-end-line="196" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/exercise/String/StringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/exercise/Concurrent/ThreadPoolTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="37" column="11" lean-forward="true" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="94" column="29" lean-forward="true" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="29" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="442" y="272" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604741931638">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="442" y="272" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.960@0.0.1536.960" timestamp="1604741931638" />
+    <state x="248" y="23" width="1039" height="937" key="CommitChangelistDialog2" timestamp="1606620973395">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="248" y="23" width="1039" height="937" key="CommitChangelistDialog2/0.0.1536.960@0.0.1536.960" timestamp="1606620973395" />
+    <state x="154" y="85" key="DiffContextDialog" timestamp="1606621082277">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="154" y="85" key="DiffContextDialog/0.0.1536.960@0.0.1536.960" timestamp="1606621082277" />
+    <state width="1484" height="333" key="GridCell.Tab.0.bottom" timestamp="1602579603524">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1484" height="333" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1602579603524" />
+    <state width="1484" height="359" key="GridCell.Tab.0.bottom/41.23.1495.937@41.23.1495.937" timestamp="1602573878245" />
+    <state width="1484" height="256" key="GridCell.Tab.0.bottom/42.23.1494.937@42.23.1494.937" timestamp="1601259727888" />
+    <state width="1484" height="438" key="GridCell.Tab.0.bottom/43.23.1493.937@43.23.1493.937" timestamp="1600942229897" />
+    <state width="1484" height="333" key="GridCell.Tab.0.center" timestamp="1602579603522">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1484" height="333" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1602579603522" />
+    <state width="1484" height="359" key="GridCell.Tab.0.center/41.23.1495.937@41.23.1495.937" timestamp="1602573878244" />
+    <state width="1484" height="256" key="GridCell.Tab.0.center/42.23.1494.937@42.23.1494.937" timestamp="1601259727887" />
+    <state width="1484" height="438" key="GridCell.Tab.0.center/43.23.1493.937@43.23.1493.937" timestamp="1600942229897" />
+    <state width="1484" height="333" key="GridCell.Tab.0.left" timestamp="1602579603522">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1484" height="333" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1602579603522" />
+    <state width="1484" height="359" key="GridCell.Tab.0.left/41.23.1495.937@41.23.1495.937" timestamp="1602573878243" />
+    <state width="1484" height="256" key="GridCell.Tab.0.left/42.23.1494.937@42.23.1494.937" timestamp="1601259727886" />
+    <state width="1484" height="438" key="GridCell.Tab.0.left/43.23.1493.937@43.23.1493.937" timestamp="1600942229896" />
+    <state width="1484" height="333" key="GridCell.Tab.0.right" timestamp="1602579603523">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1484" height="333" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1602579603523" />
+    <state width="1484" height="359" key="GridCell.Tab.0.right/41.23.1495.937@41.23.1495.937" timestamp="1602573878244" />
+    <state width="1484" height="256" key="GridCell.Tab.0.right/42.23.1494.937@42.23.1494.937" timestamp="1601259727887" />
+    <state width="1484" height="438" key="GridCell.Tab.0.right/43.23.1493.937@43.23.1493.937" timestamp="1600942229897" />
+    <state width="1484" height="333" key="GridCell.Tab.1.bottom" timestamp="1602579603526">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1484" height="333" key="GridCell.Tab.1.bottom/0.0.1536.960@0.0.1536.960" timestamp="1602579603526" />
+    <state width="1484" height="344" key="GridCell.Tab.1.bottom/41.23.1495.937@41.23.1495.937" timestamp="1600758271251" />
+    <state width="1484" height="256" key="GridCell.Tab.1.bottom/42.23.1494.937@42.23.1494.937" timestamp="1601259727808" />
+    <state width="1484" height="438" key="GridCell.Tab.1.bottom/43.23.1493.937@43.23.1493.937" timestamp="1600942229899" />
+    <state width="1484" height="333" key="GridCell.Tab.1.center" timestamp="1602579603525">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1484" height="333" key="GridCell.Tab.1.center/0.0.1536.960@0.0.1536.960" timestamp="1602579603525" />
+    <state width="1484" height="344" key="GridCell.Tab.1.center/41.23.1495.937@41.23.1495.937" timestamp="1600758271251" />
+    <state width="1484" height="256" key="GridCell.Tab.1.center/42.23.1494.937@42.23.1494.937" timestamp="1601259727807" />
+    <state width="1484" height="438" key="GridCell.Tab.1.center/43.23.1493.937@43.23.1493.937" timestamp="1600942229898" />
+    <state width="1484" height="333" key="GridCell.Tab.1.left" timestamp="1602579603524">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1484" height="333" key="GridCell.Tab.1.left/0.0.1536.960@0.0.1536.960" timestamp="1602579603524" />
+    <state width="1484" height="344" key="GridCell.Tab.1.left/41.23.1495.937@41.23.1495.937" timestamp="1600758271250" />
+    <state width="1484" height="256" key="GridCell.Tab.1.left/42.23.1494.937@42.23.1494.937" timestamp="1601259727806" />
+    <state width="1484" height="438" key="GridCell.Tab.1.left/43.23.1493.937@43.23.1493.937" timestamp="1600942229898" />
+    <state width="1484" height="333" key="GridCell.Tab.1.right" timestamp="1602579603525">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1484" height="333" key="GridCell.Tab.1.right/0.0.1536.960@0.0.1536.960" timestamp="1602579603525" />
+    <state width="1484" height="344" key="GridCell.Tab.1.right/41.23.1495.937@41.23.1495.937" timestamp="1600758271251" />
+    <state width="1484" height="256" key="GridCell.Tab.1.right/42.23.1494.937@42.23.1494.937" timestamp="1601259727807" />
+    <state width="1484" height="438" key="GridCell.Tab.1.right/43.23.1493.937@43.23.1493.937" timestamp="1600942229899" />
+    <state x="442" y="121" key="RollbackChangesDialog" timestamp="1606621131811">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="442" y="121" key="RollbackChangesDialog/0.0.1536.960@0.0.1536.960" timestamp="1606621131811" />
+    <state x="116" y="23" key="SettingsEditor" timestamp="1605245666172">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="116" y="23" key="SettingsEditor/0.0.1536.960@0.0.1536.960" timestamp="1605245666172" />
+    <state x="268" y="157" key="Vcs.Push.Dialog.v2" timestamp="1606621177334">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="268" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.960@0.0.1536.960" timestamp="1606621177334" />
+    <state x="485" y="170" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1606620956200">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="485" y="170" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.960@0.0.1536.960" timestamp="1606620956200" />
+    <state x="440" y="170" key="extract.method.dialog" timestamp="1601280754486">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="440" y="170" key="extract.method.dialog/0.0.1536.960@0.0.1536.960" timestamp="1601280754486" />
+    <state x="347" y="27" width="849" height="907" key="find.popup" timestamp="1604992790436">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="347" y="27" width="849" height="907" key="find.popup/0.0.1536.960@0.0.1536.960" timestamp="1604992790436" />
+    <state x="525" y="355" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606620922211">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="525" y="355" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.960@0.0.1536.960" timestamp="1606620922211" />
+    <state x="338" y="0" width="862" height="960" key="search.everywhere.popup" timestamp="1605412068864">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="338" y="0" width="862" height="960" key="search.everywhere.popup/0.0.1536.960@0.0.1536.960" timestamp="1605412068864" />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>toy</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basic/src/main/java/com/exercise/XmlStrGenTest.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/toy$AppTest_addChartVersion.ic" NAME="AppTest.addChartVersion Coverage Results" MODIFIED="1595324449204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
   </component>
 </project>

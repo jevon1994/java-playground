@@ -1,0 +1,25 @@
+
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148F"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148\"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+>
+java:S1172'"(Remove this unused method parameter "p".(É÷Ë
+\
+java:S2142+"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(Ôî¬
+\
+java:S2142E"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+D
+java:S2140D")Use "java.util.Random.nextInt()" instead.(ßÇÉÏøÿÿÿÿ
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(»Á¨•
+\
+java:S2142["FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+D
+java:S2140Z")Use "java.util.Random.nextInt()" instead.(ßÇÉÏøÿÿÿÿ

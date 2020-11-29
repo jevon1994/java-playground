@@ -1,0 +1,12 @@
+
+O
+java:S1197Ö"8Move the array designator from the variable to the type.(»òìÔ
+{
+java:S1149Ë"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ô¾ïóøÿÿÿÿ
+P
+java:S1117™"9Rename "count" which hides the field declared at line 56.(ÙÍƒƒ
+U
+java:S1117ò"9Rename "value" which hides the field declared at line 51.(•¸¢ùÿÿÿÿÿ
+s	java:S127£"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ûãíûÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¿‚Œäùÿÿÿÿ

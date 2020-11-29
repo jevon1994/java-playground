@@ -1,0 +1,14 @@
+
+<
+java:S1481"&Remove this unused "j" local variable.(©—ÖÚ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(É¶Ô_
+K
+java:S1854"5Remove this useless assignment to local variable "j".(©—ÖÚ
+8
+java:S2189""Correct this loop's end condition.(©—ÖÚ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßàÀõúÿÿÿÿ
+O
+java:S2251"9"P" is decremented and will never reach "stop condition".(©—ÖÚ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†£ÝÃ
+N
+java:S1197"8Move the array designator from the variable to the type.(çÊ™Å

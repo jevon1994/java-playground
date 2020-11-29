@@ -1,0 +1,35 @@
+
+W
+java:S1161Ê	":Add the "@Override" annotation above this method signature(ºˆ¡8½½´Ö.
+^	java:S125Ò"<This block of commented-out lines of code should be removed.(´¶«øÿÿÿÿ8½½´Ö.
+x
+java:S4144ö"UUpdate this method so that its implementation is not identical to "poll" on line 672.(ÓÈ¸óøÿÿÿÿ8½½´Ö.
+Y	java:S125î"<This block of commented-out lines of code should be removed.(¸œş8½½´Ö.
+s
+java:S4144Ü"UUpdate this method so that its implementation is not identical to "peek" on line 650.(ùÎ³8½½´Ö.
+f
+java:S1182ü"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ8½½´Ö.
+Y	java:S125·"<This block of commented-out lines of code should be removed.(Şõß½8½½´Ö.
+^	java:S125˜	"<This block of commented-out lines of code should be removed.(àı‘Ïûÿÿÿÿ8½½´Ö.
+q
+java:S2975ü"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ8½½´Ö.
+Y	java:S125¬"<This block of commented-out lines of code should be removed.(Ã‚à8½½´Ö.
+@
+java:S2160S"+Override the "equals" method in this class.(Á‰A
+s	java:S127Ê"XRefactor the code in order to not assign to this loop counter from within the loop body.(ïßóùøÿÿÿÿ
+[
+java:S1117ù"8Rename "size" which hides the field declared at line 87.(Ó•š•øÿÿÿÿ8½½´Ö.
+^	java:S125¿"<This block of commented-out lines of code should be removed.(Üµê’ùÿÿÿÿ8½½´Ö.
+q
+java:S2272å"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(¤¿ğßıÿÿÿÿ8½½´Ö.
+Y	java:S125œ"<This block of commented-out lines of code should be removed.(ûöÿ8½½´Ö.
+=
+java:S1659Ë	"Declare "n" on a separate line.(´£ºŒ8½½´Ö.
+]
+java:S1161è":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ8½½´Ö.
+W
+java:S1161¹":Add the "@Override" annotation above this method signature(ºˆ¡8½½´Ö.
+|
+java:S2293’	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÊúùúÿÿÿÿ8½½´Ö.
+E
+java:S1659""Declare "succ" on a separate line.(È®Ğûÿÿÿÿ8½½´Ö.

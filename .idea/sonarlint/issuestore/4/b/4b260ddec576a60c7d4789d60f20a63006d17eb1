@@ -1,0 +1,32 @@
+
+d
+java:S1192"NDefine a constant instead of duplicating this literal "å½“å‰çº¿ç¨‹:" 4 times.(Âù»•
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S16040"(Make this anonymous inner class a lambda(ÉãÃ®
+>
+java:S16046"(Make this anonymous inner class a lambda(ÿïŞß
+C
+java:S1604="(Make this anonymous inner class a lambda(ûè¿°şÿÿÿÿ
+C
+java:S1604D"(Make this anonymous inner class a lambda(ôÆĞÆüÿÿÿÿ
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Âù»•
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûÖıŞüÿÿÿÿ
+\
+java:S2142$"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(Âù»•
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ûÖıŞüÿÿÿÿ
+Q
+java:S1854D"6Remove this useless assignment to local variable "t4".(ôÆĞÆüÿÿÿÿ
+Q
+java:S1854="6Remove this useless assignment to local variable "t3".(ûè¿°şÿÿÿÿ
+B
+java:S1481="'Remove this unused "t3" local variable.(ûè¿°şÿÿÿÿ
+B
+java:S1481D"'Remove this unused "t4" local variable.(ôÆĞÆüÿÿÿÿ
+V	java:S125L"<This block of commented-out lines of code should be removed.(ÅÑ¨éûÿÿÿÿ

@@ -1,0 +1,27 @@
+
+n
+java:S1450"SRemove the "data" field and declare it as a local variable in the relevant methods.(Çº¾Ïøÿÿÿÿ
+\
+java:S2142""FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(Â¼‘ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤äüùúÿÿÿÿ
+L
+java:S2696 "6Make the enclosing method "static" or remove this set.( ÔŠŒ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(íòø£
+Q
+java:S2696&"6Make the enclosing method "static" or remove this set.(· İËşÿÿÿÿ
+i
+java:S1450-"SRemove the "data" field and declare it as a local variable in the relevant methods.(Õ”Ø×
+Q
+java:S26965"6Make the enclosing method "static" or remove this set.(’ù™Æûÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(‰ŠàÇúÿÿÿÿ
+\
+java:S2142:"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+L
+java:S26969"6Make the enclosing method "static" or remove this set.( ÔŠŒ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(œŒıº
+o
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(´Èšİ
+\
+java:S2142L"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

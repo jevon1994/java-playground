@@ -1,0 +1,13 @@
+
+U
+java:S2440*"3Remove this instantiation of "SingletonInnerClass".(œÓÌ¹şÿÿÿÿ8»¦öÒ.
+d
+java:S3824<"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ˆàÜœ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ãî§—
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+m
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ãî§—
+[
+java:S11248"EReorder the modifiers to comply with the Java Language Specification.(ŠÒäÑ
