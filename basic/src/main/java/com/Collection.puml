@@ -1,0 +1,38 @@
+@startuml
+
+interface Iterable
+interface Collection
+abstract AbstractCollection
+interface List
+interface Set
+interface Queue
+interface Deque
+abstract AbstractList
+abstract AbstractSet
+interface SortedSet
+interface NavigableSet
+
+
+
+Collection ..> Iterable
+AbstractCollection ..> Collection
+List --|> Collection
+Set --|> Collection
+AbstractSet --|> AbstractCollection
+AbstractList --|> AbstractCollection
+List <|.. AbstractList
+AbstractSequentialList --|> AbstractList
+ArrayList --|> AbstractList
+Vector --|> AbstractList
+Stack --|> Vector
+LinkedList --|> AbstractSequentialList
+LinkedList  ..|> Deque
+Deque --|> Queue
+Queue --|> Collection
+AbstractSet ..|> Set
+HashSet --|> AbstractSet
+TreeSet --|> AbstractSet
+TreeSet ..|> NavigableSet
+NavigableSet --|> SortedSet
+SortedSet --|> Set
+@enduml
