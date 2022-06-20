@@ -10,11 +10,11 @@ public class AdapterTest {
         objApapter.invoke();
     }
 }
-
+// 目标类
 interface Target {
     void invoke();
 }
-
+// 被适配
 class Adaptee {
     public void concreteInvoke() {
         System.out.println("real invoke");
