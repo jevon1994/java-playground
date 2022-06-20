@@ -1,0 +1,18 @@
+
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+>
+java:S1148+"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(áìÎ8
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨…ôòùÿÿÿÿ
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Šþ™íýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…¤€ÿýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë¶Ú“þÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(æ»€˜þÿÿÿÿ
+\
+java:S2142*"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(†ÔîÚúÿÿÿÿ

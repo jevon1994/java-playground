@@ -1,0 +1,54 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(‡Ó²íùÿÿÿÿ
+`	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(½¾‡Ïùÿÿÿÿ
+g	java:S101""MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÙôÏûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ó²íùÿÿÿÿ
+h
+java:S1104("RMake bufpos a static final constant or non-public and provide accessors if needed.(âëË
+E
+java:S1121Í".Extract the assignment out of this expression.(Œ£ƒÌ
+E
+java:S1121ş".Extract the assignment out of this expression.(Ÿ»Èİ
+E
+java:S1121‡".Extract the assignment out of this expression.(‘õšğ
+o	java:S115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷İÕ·
+N
+java:S1197)"8Move the array designator from the variable to the type.(¯İ±Ê
+N
+java:S1197*"8Move the array designator from the variable to the type.(ºŒˆ
+c	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á­ëÓ
+S
+java:S1197;"8Move the array designator from the variable to the type.(œˆãÃşÿÿÿÿ
+S
+java:S1197<"8Move the array designator from the variable to the type.(•ŒÎ¨ıÿÿÿÿ
+;
+java:S1181_"%Catch Exception instead of Throwable.(Ñ´¯
+2
+java:S3626Œ"Remove this redundant jump.(ûÁİ…
+h	java:S100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËºÈŒüÿÿÿÿ
+m
+java:S3776j"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ËºÈŒüÿÿÿÿ
+d	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÇœÍ
+i	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ËÃŠÿÿÿÿÿ
+Q
+java:S1133Ş"5Do not forget to remove this deprecated code someday.(‡¤Ø‹øÿÿÿÿ
+Q
+java:S1133ç"5Do not forget to remove this deprecated code someday.(¿ÑÅ÷ûÿÿÿÿ
+d	java:S100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•–“ß
+d	java:S100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•–“ß
+M
+java:S1172­"1Remove this unused method parameter "buffersize".(ÅñúÇÿÿÿÿÿ
+d	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿşóÜ
+M
+java:S1172¹"1Remove this unused method parameter "buffersize".(ÅñúÇÿÿÿÿÿ
+d	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿşóÜ
+i	java:S100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ²êãşÿÿÿÿ
+i	java:S100Ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óù úÿÿÿÿ
+i	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÿÃûÿÿÿÿ
+;
+java:S1659ó"Declare "j" on a separate line.(ãäÚ‘üÿÿÿÿ
+;
+java:S1659ó"Declare "k" on a separate line.(ãäÚ‘üÿÿÿÿ
+D
+java:S1659ô"(Declare "columnDiff" on a separate line.(ÙşÙúÿÿÿÿ

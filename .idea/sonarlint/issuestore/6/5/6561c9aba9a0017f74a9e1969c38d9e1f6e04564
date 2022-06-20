@@ -1,0 +1,40 @@
+
+‡
+java:S1319"qThe type of the "set" object should be an interface such as "SortedSet" rather than the implementation "TreeSet".(ñŸ½Æ
+Œ
+java:S1319!"qThe type of the "set" object should be an interface such as "SortedSet" rather than the implementation "TreeSet".(°Ìôôÿÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(”‘¶Ğøÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(”‘¶Ğøÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ñŸ½Æ
+E
+java:S3740"/Provide the parametrized type for this generic.(“ïôÙ
+J
+java:S3740!"/Provide the parametrized type for this generic.(°Ìôôÿÿÿÿÿ
+J
+java:S3740#"/Provide the parametrized type for this generic.(µ‚€¬ûÿÿÿÿ
+D
+java:S3740("/Provide the parametrized type for this generic.(È“)
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İÚÌå
+S	java:S106"9Replace this use of System.out or System.err by a logger.(««Øªÿÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(´ùÄªÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´ùÄªÿÿÿÿÿ
+l
+java:S3457""Q%n should be used in place of \n to produce the platform-specific line separator.(–¨©ˆøÿÿÿÿ
+@
+java:S3457""%String contains no format specifiers.(–¨©ˆøÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(–¨©ˆøÿÿÿÿ
+g
+java:S3457$"Q%n should be used in place of \n to produce the platform-specific line separator.(ä¤€ù
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ä¤€ù
+l
+java:S3457)"Q%n should be used in place of \n to produce the platform-specific line separator.(¬‹‡Òıÿÿÿÿ
+@
+java:S3457)"%String contains no format specifiers.(¬‹‡Òıÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(¬‹‡Òıÿÿÿÿ
+l
+java:S3457,"Q%n should be used in place of \n to produce the platform-specific line separator.(à¤½ïÿÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(à¤½ïÿÿÿÿÿ

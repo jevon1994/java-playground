@@ -1,0 +1,16 @@
+
+P
+java:S2755"3Disable access to external entities in XML parsing.(ğ¨ºî8ÇĞ©.
+œ
+java:S2159"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(ú­Á¾ûÿÿÿÿ8³ÒÄ´.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ò‚––şÿÿÿÿ8‘ìÏ©.
+E
+java:S1148E"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‘ìÏ©.
+U
+java:S2755:"3Disable access to external entities in XML parsing.(£ƒìÊüÿÿÿÿ8“äĞ©.
+X	java:S125"<This block of commented-out lines of code should be removed.(’ş½Â8Ø¤Ä´.
+i	java:S101J"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜§Î·8ÉŠ­Ø¹.
+L
+java:S2201"*The return value of "equals" must be used.(ú­Á¾ûÿÿÿÿ8³ÒÄ´.
+
+java:S1186K"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²Óëø8ÉŠ­Ø¹.

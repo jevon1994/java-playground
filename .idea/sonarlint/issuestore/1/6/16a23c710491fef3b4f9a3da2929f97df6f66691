@@ -1,0 +1,41 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(¦…Ÿž
+E
+java:S3740"/Provide the parametrized type for this generic.(¦…Ÿž
+E
+java:S3740	"/Provide the parametrized type for this generic.(œ÷½­
+E
+java:S3740	"/Provide the parametrized type for this generic.(œ÷½­
+D
+java:S3740
+"/Provide the parametrized type for this generic.(©ìú
+D
+java:S3740
+"/Provide the parametrized type for this generic.(©ìú
+J
+java:S3740"/Provide the parametrized type for this generic.(³ò‰Äúÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(³ò‰Äúÿÿÿÿ
+J
+java:S3740("/Provide the parametrized type for this generic.(·ÌÓžùÿÿÿÿ
+E
+java:S37407"/Provide the parametrized type for this generic.(ÐÚþñ
+J
+java:S3740D"/Provide the parametrized type for this generic.(¨Ù…¡þÿÿÿÿ
+J
+java:S3740Q"/Provide the parametrized type for this generic.(ŸàÏƒøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æê¬¤ùÿÿÿÿ
+z
+java:S1149
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©ìú
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(³ò‰Äúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(üÐÔ£
+?
+java:S5413I")Verify that "remove()" is used correctly.(²ôˆ¼
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(ûÈé’
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(à«°Ã

@@ -1,0 +1,7 @@
+
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+_
+java:S2445"I"obj2" is a method parameter, and should not be used for synchronization.(¸­†µ
+^
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¤ù»ÿÿÿÿÿ

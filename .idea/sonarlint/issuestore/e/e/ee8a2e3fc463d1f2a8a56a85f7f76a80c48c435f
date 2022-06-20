@@ -1,0 +1,15 @@
+
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(£«¡ßûÿÿÿÿ8…”òœ¡.
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(Úº¢Øøÿÿÿÿ8…”òœ¡.
+U	java:S106h"9Replace this use of System.out or System.err by a logger.(ŒïÍ8´Öñœ¡.
+d
+java:S1192G"GDefine a constant instead of duplicating this literal "before" 3 times.(ŒïÍ8ì”µœ¡.
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(ŒïÍ8‡îß›¡.
+U	java:S106U"9Replace this use of System.out or System.err by a logger.(ŒïÍ8…”òœ¡.
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(£«¡ßûÿÿÿÿ8‡îß›¡.
+r	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öëÈŸÿÿÿÿÿ8…”òœ¡.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(Úº¢Øøÿÿÿÿ8‡îß›¡.
+h
+java:S1192C"FDefine a constant instead of duplicating this literal "after" 3 times.(Úº¢Øøÿÿÿÿ8ËÒµœ¡.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÚÿ8Ø¹Îœ¡.
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(Úº¢Øøÿÿÿÿ8´Öñœ¡.

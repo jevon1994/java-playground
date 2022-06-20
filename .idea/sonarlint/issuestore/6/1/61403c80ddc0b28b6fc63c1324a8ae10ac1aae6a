@@ -1,0 +1,9 @@
+
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(´¨øïÿÿÿÿÿ8›¦¥Ÿ.
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(«×½•8›¦¥Ÿ.
+h
+java:S1610"FConvert the abstract class "AbstractMessageFactory" into an interface.(ñ†µóıÿÿÿÿ8Ë‡š¥Ÿ.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(’¶ï„8›¦¥Ÿ.
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(êËÄ¢üÿÿÿÿ8›¦¥Ÿ.
+R
+java:S1610"6Convert the abstract class "Sender" into an interface.(‘«ÜW8›¦¥Ÿ.

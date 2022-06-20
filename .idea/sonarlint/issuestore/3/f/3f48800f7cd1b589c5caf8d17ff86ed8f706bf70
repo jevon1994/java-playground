@@ -1,0 +1,13 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(žÌºì
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õ–”ôüÿÿÿÿ
+b	java:S101#"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡ÊÓâ
+b	java:S101."MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ³ŸÝ
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ›ÿ‚
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÚÕ
+v
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(åÒªÜ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉóïÔþÿÿÿÿ
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(ÕÞã
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(í¥¯š

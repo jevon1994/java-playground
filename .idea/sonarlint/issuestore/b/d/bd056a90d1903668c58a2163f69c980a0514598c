@@ -1,0 +1,18 @@
+
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ïÂ×òúÿÿÿÿ8öà”Í.
+I
+java:S11442",Remove this unused private "tryTest" method.(ô®Ä×8š¼•Í.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ü„äÅşÿÿÿÿ8§™•Í.
+U	java:S106"9Replace this use of System.out or System.err by a logger.( õì·8™»öË.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(•®·¦úÿÿÿÿ8™¾ŒöË.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ë“‚á8§™•Í.
+M
+java:S1144"+Remove this unused private "reduce" method.(œ†àÂÿÿÿÿÿ8€ˆ”Í.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·‹¡óùÿÿÿÿ8§™•Í.
+J
+java:S1128"(Remove this unused import 'io.vavr.API'.(õÉÑÖúÿÿÿÿ8†İ’Í.
+p
+java:S1602'"SRemove useless curly braces around statement and then remove useless return keyword(Ûğş»8™¾ŒöË.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ãˆ¬íşÿÿÿÿ8™¾ŒöË.
+K
+java:S1144"")Remove this unused private "poll" method.(­’ÆÈøÿÿÿÿ8€ˆ”Í.

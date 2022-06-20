@@ -1,0 +1,69 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(¾ÀÁ³
+E
+java:S3740"/Provide the parametrized type for this generic.(¾ÀÁ³
+J
+java:S3740@"/Provide the parametrized type for this generic.(®…Ì§ıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İÚÌå
+N	java:S106"9Replace this use of System.out or System.err by a logger.(É’¡˜
+f
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(š¬J
+M	java:S106"9Replace this use of System.out or System.err by a logger.(š¬J
+l
+java:S3457 "Q%n should be used in place of \n to produce the platform-specific line separator.(Ö³ù¿úÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Ö³ù¿úÿÿÿÿ
+l
+java:S3457""Q%n should be used in place of \n to produce the platform-specific line separator.(÷Âè·ûÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(÷Âè·ûÿÿÿÿ
+g
+java:S3457$"Q%n should be used in place of \n to produce the platform-specific line separator.(Şşçò
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Şşçò
+g
+java:S3457%"Q%n should be used in place of \n to produce the platform-specific line separator.(Å­Æ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(Å­Æ
+g
+java:S3457'"Q%n should be used in place of \n to produce the platform-specific line separator.(²ã¶
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(²ã¶
+g
+java:S3457)"Q%n should be used in place of \n to produce the platform-specific line separator.(ÔØ½¤
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ÔØ½¤
+l
+java:S3457*"Q%n should be used in place of \n to produce the platform-specific line separator.(ßÌ£óùÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ßÌ£óùÿÿÿÿ
+g
+java:S3457+"Q%n should be used in place of \n to produce the platform-specific line separator.(åø§¿
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(åø§¿
+l
+java:S3457,"Q%n should be used in place of \n to produce the platform-specific line separator.(³Æä¹úÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(³Æä¹úÿÿÿÿ
+g
+java:S3457."Q%n should be used in place of \n to produce the platform-specific line separator.(¶À™ÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(¶À™ÿ
+l
+java:S3457/"Q%n should be used in place of \n to produce the platform-specific line separator.(ˆäéüÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ˆäéüÿÿÿÿ
+g
+java:S34571"Q%n should be used in place of \n to produce the platform-specific line separator.(ñĞ¹”
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ñĞ¹”
+g
+java:S34572"Q%n should be used in place of \n to produce the platform-specific line separator.(»…ºä
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(»…ºä
+l
+java:S3457:"Q%n should be used in place of \n to produce the platform-specific line separator.(à¤½ïÿÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(à¤½ïÿÿÿÿÿ
+l
+java:S3457="Q%n should be used in place of \n to produce the platform-specific line separator.(Ä÷¬Ïşÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Ä÷¬Ïşÿÿÿÿ
+g
+java:S3457A"Q%n should be used in place of \n to produce the platform-specific line separator.(åĞ¿—
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(åĞ¿—
+g
+java:S3457F"Q%n should be used in place of \n to produce the platform-specific line separator.(‰‡†ö
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(‰‡†ö
+g
+java:S3457J"Q%n should be used in place of \n to produce the platform-specific line separator.(Ìñ÷é
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(Ìñ÷é
+g
+java:S3457P"Q%n should be used in place of \n to produce the platform-specific line separator.(ùôô
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(ùôô
